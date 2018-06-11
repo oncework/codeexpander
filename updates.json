@@ -1,0 +1,8 @@
+{
+  "darwin-x64-prod": {
+    "readme": "Init oncework version",
+    "update":
+      "https://github.com/oncework/oncework-deploy/releases/download/darwin-x64-prod-v1.0.1/release.json",
+    "version": "1.0.1"
+  }
+}
