@@ -1,8 +1,19 @@
 {
+  "win32-x64-prod": {
+    "readme": "Second release",
+    "update": "https://github.com/megahertz/electron-simple-updater/releases/download/win32-x64-prod-v0.0.2",
+    "install": "https://github.com/megahertz/electron-simple-updater/releases/download/win32-x64-prod-v0.0.2/Simple.Updater.Example.Setup.0.0.2.exe",
+    "version": "0.0.2"
+  },
   "darwin-x64-prod": {
-    "readme": "Init oncework version",
-    "update":
-      "https://github.com/oncework/oncework-deploy/releases/download/darwin-x64-prod-v1.0.1/release.json",
-    "version": "1.0.1"
+    "readme": "Second Release",
+    "update": "https://github.com/megahertz/electron-simple-updater/releases/download/darwin-x64-prod-v0.0.2/release.json",
+    "install": "https://github.com/megahertz/electron-simple-updater/releases/download/darwin-x64-prod-v0.0.2/Simple.Updater.Example-0.0.2.dmg",
+    "version": "0.0.2"
+  },
+  "linux-x64-prod": {
+    "update": "https://github.com/megahertz/electron-simple-updater/releases/download/linux-x64-prod-v0.0.2/simple-updater-example-0.0.2-x86_64.AppImage",
+    "install": "https://github.com/megahertz/electron-simple-updater/releases/download/linux-x64-prod-v0.0.2/simple-updater-example-0.0.2-x86_64.AppImage",
+    "version": "0.0.2"
   }
 }
