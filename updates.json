@@ -1,8 +1,7 @@
 {
   "darwin-x64-prod": {
-    "readme": "Update version to 1.0.2",
-    "update": "https://github.com/oncework/oncework-deploy/releases/tag/1.0.2",
+    "readme": "Update version to 1.0.3",
     "install": "https://github.com/oncework/oncework-deploy/releases/download/1.0.2/OnceWork-1.0.2.dmg",
-    "version": "1.0.2"
+    "version": "1.0.3"
   }
 }
