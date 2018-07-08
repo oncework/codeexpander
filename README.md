@@ -31,7 +31,7 @@ Oncework 一款结合 Github-Gist 与 Text Expander 类软件的效率类软件�
 
 # 使用介绍
 
-- 设定值替换
+- 设定值替换 [完整Gif](http://7xqvqi.com1.z0.glb.clouddn.com/snippet-example.gif)
  ![snippet-example](http://7xqvqi.com1.z0.glb.clouddn.com/snippet-example.gif)
 
 - 搜索式替换
