@@ -12,7 +12,6 @@ Oncework 一款结合 Github-Gist 与 Text Expander 类软件的效率类软件�
 # 界面介绍
 
 - 主界面
-
 ![主界面](http://7xqvqi.com1.z0.glb.clouddn.com/主界面.png)
 
 - 添加snippet
