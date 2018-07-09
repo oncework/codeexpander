@@ -1,11 +1,11 @@
 {
   "darwin-x64-prod": {
-    "readme": "Update version to 1.1.0.\n1.Fix some bug. \n2.Support Alfred windows. ",
+    "readme": "悬浮工具栏 -- Floating Tool. 1. 按 ESC 应该自动关闭 2.添加新的 Snippet 应该更新至最新 3.结果不应该和【RUN】的结果一样",
     "update":
-      "https://github.com/oncework/oncework-deploy/releases/download/1.1.0/OnceWork-1.1.0-mac.zip",
+      "https://github.com/oncework/oncework-deploy/releases/download/1.1.1/OnceWork-1.1.1-mac.zip",
     "install":
-      "https://github.com/oncework/oncework-deploy/releases/download/1.1.0/OnceWork-1.1.0.dmg",
-    "version": "1.1.0"
+      "https://github.com/oncework/oncework-deploy/releases/download/1.1.1/OnceWork-1.1.1.dmg",
+    "version": "1.1.1"
   },
   "win-x64-prod": {
     "readme": "Update version to 1.0.2.\n1.Support multilingual.\n 2.Support Windows version.\n 3.Support custom setting.",
