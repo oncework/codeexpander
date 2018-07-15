@@ -5,7 +5,7 @@ description: >-
   简言之，是一款适用于Mac/Win的快速输入的工具。它能将那些需要重复输入的内容（Content）保存，并给其预设一个缩写词（Abbreviation），当下次需要时，你只需输入设定好的缩写词就会自动展开缩写词。
 ---
 
-# Oncework 介绍
+# Oncework Intro
 
 ### 使用介绍
 
