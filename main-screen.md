@@ -2,7 +2,7 @@
 description: 功能界面
 ---
 
-# 主界面
+# Main screen
 
 ## 主界面
 

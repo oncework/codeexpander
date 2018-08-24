@@ -2,7 +2,7 @@
 description: 支持软件运行的环境设置
 ---
 
-# 环境安装
+# Environmental
 
 ## 首次安装
 

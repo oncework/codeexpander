@@ -2,7 +2,7 @@
 description: 本页面介绍基本界面
 ---
 
-# 登录界面
+# Login screen
 
 ## 登录界面
 

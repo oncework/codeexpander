@@ -1,4 +1,4 @@
-# 快捷添加界面
+# Quick screen
 
 ##  快速添加 Gist 界面
 
