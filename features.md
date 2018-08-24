@@ -1,19 +1,38 @@
 ---
-description: 本页面介绍软件基本实现功能，欢迎提供您的意见。
+description: This page introduces the basic functions of the software.
 ---
 
 # Features
 
-## 界面引起舒适
+### Work faster and smarter
 
-相对其他类Text Expander 而言.
+> Use Oncework’s powerful snippets and abbreviations to streamline and speed all you type.Create powerful snippets to save you time so that all you type is a short abbreviation, and Oncework does the rest of the typing for you.
 
-## 无感同步Gist功能
+* Expand your snippets in any application from single lines to whole paragraphs
+* Search and expand snippets, abbreviations, and suggestions inline as you type
+* Reminders to use your snippets and suggestions as you type
 
-* [x] 增删改查 Gist
-* [x] 多级 Gist 关系
+### Streamline code & data
 
-## 代码编译预览功能
+> Oncework has many features to help you sling code, create scripts, craft HTML and CSS, and satisfy the geek in all of us.
+
+* For programmers, make editor-independent code templates
+* Invoke multi-platform JavaScript, AppleScript, Python and shell scripts even Go will be continue...
+* Shorten long URLs automatically \(Internet Productivity snippet group\)
+* Automatically insert clipboard content in a snippet
+* Import data from other type expansion apps 
+* Import and export snippet group files
+
+### Nice interface
+
+Relative to other classes, Text Expander.
+
+### Non-sensory synchronization of Gist functions
+
+* [x] Add, delete, and alter Gist
+* [x] Multi-level Gist relationship
+
+### Compile the preview function
 
 * [x] Text
 * [x] Javascript
@@ -22,7 +41,7 @@ description: 本页面介绍软件基本实现功能，欢迎提供您的意见�
 * [x] AppleScript
 
 {% hint style="info" %}
- 若有任何建设性或者你有啥想要实现的意见或功能，请告知.
+ Please let us know if there are any Suggestions or features you would like to implement.
 {% endhint %}
 
 

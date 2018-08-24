@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Oncework Intro](README.md)
+* [Oncework](README.md)
 * [Features](features.md)
 * [Environmental](environmental.md)
 * [Login screen](login-screen.md)

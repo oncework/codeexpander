@@ -1,17 +1,17 @@
 ---
-description: 本页面介绍基本界面
+description: This page introduces the basic interface
 ---
 
 # Login screen
 
-## 登录界面
+### Login screen
 
-![&#x767B;&#x5F55;&#x754C;&#x9762; - 1](.gitbook/assets/deng-lu-jie-mian.png)
+![Login screen - 1](.gitbook/assets/deng-lu-jie-mian.png)
 
-![&#x767B;&#x5F55;&#x754C;&#x9762; - 2](.gitbook/assets/deng-lu-jie-mian-02.png)
+![Login screen - 2](.gitbook/assets/deng-lu-jie-mian-02.png)
 
 {% hint style="info" %}
- 本软件都基于github账号，需注册才能使用，后台无存储任何用户信息。
+ This software is based on the github account, which can only be used after registration. No user information is stored in the background.
 {% endhint %}
 
 

@@ -1,14 +1,12 @@
 # Quick screen
 
-##  快速添加 Gist 界面
+##  Quickly add the Gist screen
 
 ```text
-键盘 Alt + ] 打开界面
+tap "Alt + ]" and opens screen
 ```
 
-![&#x5FEB;&#x901F;&#x6DFB;&#x52A0;snippet](.gitbook/assets/kuai-jie-tian-jia%20%281%29.png)
-
-snippet
+![Quickly add snippets](.gitbook/assets/kuai-jie-tian-jia%20%281%29.png)
 
 
 
