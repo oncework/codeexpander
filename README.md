@@ -23,7 +23,7 @@ Search substitution - an Alfred - like use habit.
 
 Oncework for Mac/Win:
 
-> [https://github.com/oncework/oncework-deploy/releases](https://github.com/oncework/oncework/releases)
+> [https://github.com/oncework/oncework/releases](https://github.com/oncework/oncework/releases)
 
 ### Software Updates
 
