@@ -1,30 +1,30 @@
 ---
-description: 支持软件运行的环境设置
+description: Support environment Settings for software running
 ---
 
 # Environmental
 
-## 首次安装
+### Installation
 
 For windows:
 
-> 只需要配置相关的 Python 环境变量就完成安装.
+> You only need to configure the relevant Python environment variables to complete the installation.
 
 For mac:
 
-初次启动软件时候，软件会提示如下：
+When you first start the software, the software will prompt as follows:
 
 ![](.gitbook/assets/yin-si-an-zhuang.png)
 
-打开系统偏好设置，勾选 \`Oncework\`
+Open the system preferences and check \`Oncework\`
 
 ![](.gitbook/assets/yin-si-an-zhuang-2.png)
 
 {% hint style="info" %}
-温馨提示: 设置后一定要重启软件，否则无法进行正常软件运行.
+Tips: please restart the software after setting, otherwise the normal software cannot be run.
 {% endhint %}
 
-## 编译功能环境支持
+### Compile functional environment support
 
 ```text
 $ node -v
@@ -33,6 +33,6 @@ $ python -v
 ```
 
 {% hint style="info" %}
-若缺少其中的某些命令，请自行下载安装。
+If some of these commands are missing, please download and install them yourself.
 {% endhint %}
 
