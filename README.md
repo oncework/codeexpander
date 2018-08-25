@@ -6,6 +6,12 @@ description: 'Life is only once, so is work.'
 
 Oncework is an efficiency class software that combines github-gist with TextExpander class software to implement TextExpander class software that is centered on Gist. In short, it is a quick input tool for Mac/Win. It can save Content that needs to be typed repeatedly, and it can preset an Abbreviation, which will be automatically expanded the next time you need it.
 
+## Download
+
+Oncework for Mac/Win:
+
+> [https://github.com/oncework/oncework/releases](https://github.com/oncework/oncework/releases)
+
 ## Usage
 
 Set values to replace
@@ -18,12 +24,6 @@ Search substitution - an Alfred - like use habit.
 ![](.gitbook/assets/window-alfred.gif)
 
 
-
-## Download
-
-Oncework for Mac/Win:
-
-> [https://github.com/oncework/oncework/releases](https://github.com/oncework/oncework/releases)
 
 ## Software Updates
 
