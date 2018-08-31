@@ -29,7 +29,7 @@ Search substitution - an Alfred - like use habit.
 
 Since the author works during the day, he can only come back at night to fix bugs or add new features, but he will update every two weeks at the beginning. Thanks for your support.
 
-### function Updates
+### Function Updates
 
 * [ ] When bash shell/python is running, software notification is supported
 * [x] Customize software shortcut key Settings
@@ -41,7 +41,7 @@ Since the author works during the day, he can only come back at night to fix bug
 * [x] Optimize the algorithm of Cursor
 * [x] Internationalization of software language
 
-### known BUG
+### Known BUG
 
 * [x] The size of the keyboard is not consistent
 * [x] Global software on top when the software is running
