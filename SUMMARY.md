@@ -2,9 +2,9 @@
 
 * [Oncework](README.md)
 * [Features](features.md)
-* [Environmental](environmental.md)
-* [Login screen](login-screen.md)
-* [Main screen](main-screen.md)
+* [Installation](environmental.md)
+* [Login](login-screen.md)
+* [Main](main-screen.md)
 * [Quick screen](quick-screen.md)
 * [Question](question.md)
 

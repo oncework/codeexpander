@@ -2,7 +2,7 @@
 description: Support environment Settings for software running
 ---
 
-# Environmental
+# Installation
 
 ### Installation
 

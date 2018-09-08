@@ -2,7 +2,7 @@
 description: The Main interface
 ---
 
-# Main screen
+# Main
 
 ### Main screen
 
