@@ -8,9 +8,13 @@ Oncework is an efficiency class software that combines github-gist with TextExpa
 
 ## Download
 
-Oncework for Mac/Win:
+Latest version of MAC
 
-> [https://github.com/oncework/oncework/releases](https://github.com/oncework/oncework/releases)
+> [https://github.com/oncework/oncework/releases/tag/1.2.0](https://github.com/oncework/oncework/releases/tag/1.2.0)
+
+Latest version of Windows
+
+> [https://github.com/oncework/oncework/releases/tag/1.1.7](https://github.com/oncework/oncework/releases/tag/1.1.7)
 
 ## Usage
 
