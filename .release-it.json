@@ -1,0 +1,10 @@
+{
+  "npm": {
+    "publish": false
+  },
+  "github": {
+    "release": true,
+    "releaseName": "Release oncework to %s",
+    "assets": "build/*.dmg"
+  }
+}

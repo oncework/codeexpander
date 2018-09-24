@@ -1,6 +1,6 @@
 {
   "name": "oncework-deploy",
-  "version": "1.0.0",
+  "version": "1.5.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/oncework/oncework-deploy.git"
+    "url": "git+https://github.com/oncework/oncework.git"
   },
   "author": "xudaolong@gmail.com",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/oncework/oncework-deploy/issues"
+    "url": "https://github.com/oncework/oncework/issues"
   },
-  "homepage": "https://github.com/oncework/oncework-deploy#readme"
+  "homepage": "https://github.com/oncework/oncework#readme"
 }
