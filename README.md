@@ -4,7 +4,7 @@ description: 'Life is only once, so is work.'
 
 # Oncework
 
-Oncework is an efficiency class software that combines github-gist with TextExpander class software to implement TextExpander class software that is centered on Gist. In short, it is a quick input tool for Mac/Win. It can save Content that needs to be typed repeatedly, and it can preset an Abbreviation, which will be automatically expanded the next time you need it.
+Oncework is an efficiency software like TextExpander or aText that combines github-gist. In short, it is a quick input tool for Mac/Win. It can save Content that needs to be typed repeatedly, and it can preset an Abbreviation, which will be automatically expanded the next time you need it.
 
 ## Download
 
@@ -29,9 +29,7 @@ Search substitution - an Alfred - like use habit.
 
 
 
-## Software Updates
 
-Since the author works during the day, he can only come back at night to fix bugs or add new features, but he will update every two weeks at the beginning. Thanks for your support.
 
 ### Function Updates
 
@@ -40,15 +38,10 @@ Since the author works during the day, he can only come back at night to fix bug
 * [x] Supports keyboard command execution
 * [ ] Create a Gist add file type
 * [ ] White noise music background
-* [ ] A reference to the NPM library
+* [x] A reference to the NPM library
 * [ ] Dynamically generate UI components
 * [x] Optimize the algorithm of Cursor
 * [x] Internationalization of software language
-
-### Known BUG
-
-* [x] The size of the keyboard is not consistent
-* [x] Global software on top when the software is running
 
 
 
