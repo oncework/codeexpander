@@ -2,9 +2,10 @@
 
 * [Oncework](README.md)
 * [Features](features.md)
-* [Installation](environmental.md)
-* [Login](login-screen.md)
-* [Main](main-screen.md)
-* [Quick screen](quick-screen.md)
-* [Question](question.md)
+* [Installation](installation.md)
+* [View](view.md)
+* [Basic](basic.md)
+* [Advanced](advanced.md)
+* [Shorcut](shorcut.md)
+* [FAQ](faq.md)
 
