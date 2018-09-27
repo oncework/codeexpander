@@ -6,6 +6,6 @@
 * [View](view.md)
 * [Basic](basic.md)
 * [Advanced](advanced.md)
-* [Shorcut](shorcut.md)
+* [Shortcut](shortcut.md)
 * [FAQ](faq.md)
 
