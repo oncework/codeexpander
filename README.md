@@ -11,7 +11,7 @@ Oncework is an efficiency software like TextExpander or aText that combines gith
 * [Features](features.md)
 * [Installation](installation.md)
 * [View](view.md)
-* [Basic](basic.md)
+* [Basic Usage](basic-usage.md)
 * [Advanced](advanced.md)
 * [Shortcut](shortcut.md)
 * [FAQ](faq.md)

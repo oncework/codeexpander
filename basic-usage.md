@@ -2,7 +2,7 @@
 description: This page shows you how to use the software properly.
 ---
 
-# Basic
+# Basic Usage
 
 #### How to create tag ?
 
