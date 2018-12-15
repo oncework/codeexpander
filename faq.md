@@ -6,8 +6,6 @@ Gist is a simple way to share code snippets and pastes with others. It is used w
 
 ![](.gitbook/assets/gist-show.png)
 
-#### Is it permanently free ?
-
 At this stage, the code is closed and donated.
 
 

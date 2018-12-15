@@ -4,12 +4,6 @@ description: A preview of the basic functionality
 
 # View
 
-### Welcome
-
-Just sign-in and sign-up and this jump to github website.
-
-![](.gitbook/assets/login-view.png)
-
 ###  Login
 
 This software is based on the github account, which can only be used after registration. No user information is stored in the background.
