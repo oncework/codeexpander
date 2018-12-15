@@ -4,7 +4,9 @@ description: 'Life is only once, so is work.'
 
 # Oncework
 
-Oncework is an efficiency software like TextExpander or aText that combines github-gist. In short, it is a quick input tool for Mac/Win. It can save Content that needs to be typed repeatedly, and it can preset an Abbreviation, which will be automatically expanded the next time you need it.
+Oncework is an efficiency software like TextExpander or aText that combines github-gist. In short, it is a quick input tool for Mac/Win. It can save Content that needs to be typed repeatedly, and it can preset an Abbreviation, which will be automatically expanded the next time you need it.  
+  
+[或￥38 从 Oncework 官方合作伙](http://t.cn/EUl64FS)[ **购买**](http://t.cn/EUl64FS)
 
 ## Contents
 

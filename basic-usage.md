@@ -22,7 +22,7 @@ Just click the **Link** icon and jump to the gist website.
 
 ![](.gitbook/assets/jump-to-gist.png)
 
-#### How to set custom parameters ? {#how-to-set-custom-parameters}
+#### How to set custom parameters ? <a id="how-to-set-custom-parameters"></a>
 
 You can set the hotkeys or more and more.
 
