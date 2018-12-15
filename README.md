@@ -39,17 +39,5 @@ Search substitution - an Alfred - like use habit.
 
 
 
-### Function Updates
-
-* [ ] When bash shell/python is running, software notification is supported
-* [x] Customize software shortcut key Settings
-* [x] Supports keyboard command execution
-* [ ] Create a Gist add file type
-* [ ] White noise music background
-* [x] A reference to the NPM library
-* [ ] Dynamically generate UI components
-* [x] Optimize the algorithm of Cursor
-* [x] Internationalization of software language
-
 
 
