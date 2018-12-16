@@ -4,6 +4,30 @@ Oncework is an efficiency software like TextExpander or aText that combines gith
   
 [或￥38 从 Oncework 官方合作伙](http://t.cn/EUl64FS)[ **购买**](http://t.cn/EUl64FS)
 
+## **Download**
+
+{% tabs %}
+{% tab title="Mac" %}
+MacOS 10.14/10.13  \(Mojave, High Sierra, Sierra\)
+
+Click the link to download
+
+> [https://github.com/oncework/oncework/releases/latest](https://github.com/oncework/oncework/releases/latest)
+{% endtab %}
+
+{% tab title="Windows" %}
+Windows 7/8/10
+
+Click the link to download
+
+> [https://github.com/oncework/oncework/releases/latest](https://github.com/oncework/oncework/releases/latest)
+{% endtab %}
+{% endtabs %}
+
+{% hint style="info" %}
+ For macOS 10.12 \(Mavericks\) and earlier, please check and report to us.
+{% endhint %}
+
 ## Contents
 
 * [Features](features.md)
@@ -13,16 +37,6 @@ Oncework is an efficiency software like TextExpander or aText that combines gith
 * [Advanced](advanced.md)
 * [Shortcut](shortcut.md)
 * [FAQ](faq.md)
-
-## Download
-
-Latest version of MAC
-
-> [https://github.com/oncework/oncework/releases/latest](https://github.com/oncework/oncework/releases/latest)
-
-Latest version of Windows
-
-> [https://github.com/oncework/oncework/releases/tag/1.1.7](https://github.com/oncework/oncework/releases/tag/1.1.7)
 
 ## Usage
 
