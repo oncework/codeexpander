@@ -2,7 +2,7 @@
 
 Oncework is an efficiency software like TextExpander or aText that combines github-gist. In short, it is a quick input tool for Mac/Win. It can save Content that needs to be typed repeatedly, and it can preset an Abbreviation, which will be automatically expanded the next time you need it.  
   
-Note: If you want to support the author, please be in the official partner of Oncework [**paddles**](https://pay.paddle.com/checkout/540339) and paddles, for which just $9.9 is required for full and permanent access.
+Note: If you want to support the author, please be in the official partner of Oncework [**paddles**](https://pay.paddle.com/checkout/540339) ****to purchase it that just **$9.9** is required for **full** and **permanent** access.
 
 ## **Download**
 
