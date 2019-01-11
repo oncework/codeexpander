@@ -6,7 +6,7 @@ description: This page shows you how to use the software properly.
 
 #### How to create tag ?
 
-Just touch the **TAG** flag and open window to create.
+Just touch the **Group** flag and open window to create.
 
 ![](../.gitbook/assets/create-tag-tip.png)
 

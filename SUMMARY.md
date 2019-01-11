@@ -18,6 +18,8 @@
 
 ## Reference
 
+* [Accounts](reference/accounts.md)
+* [Security & Privacy](reference/security-and-privacy.md)
 * [Shortcut](reference/shortcut.md)
 * [FAQ](reference/faq.md)
 
