@@ -2,7 +2,7 @@
 description: Snippets can be either Plain Text or a script.
 ---
 
-# Advanced
+# Text & Script
 
 ## Plain Text
 
