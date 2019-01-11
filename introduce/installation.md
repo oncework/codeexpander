@@ -14,11 +14,11 @@ For mac:
 
 When you first start the software, the software will prompt as follows:
 
-![](.gitbook/assets/yin-si-an-zhuang.png)
+![](../.gitbook/assets/yin-si-an-zhuang.png)
 
 Open the system preferences and check \`Oncework\`
 
-![](.gitbook/assets/yin-si-an-zhuang-2.png)
+![](../.gitbook/assets/yin-si-an-zhuang-2.png)
 
 {% hint style="info" %}
 Tips: please restart the software after setting, otherwise the normal software cannot be run.

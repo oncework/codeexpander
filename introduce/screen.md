@@ -2,17 +2,17 @@
 description: A preview of the basic functionality
 ---
 
-# View
+# Interface
 
 ###  Login
 
 This software is based on the github account, which can only be used after registration. No user information is stored in the background.
 
-![](.gitbook/assets/login-sign-in.png)
+![](../.gitbook/assets/login-sign-in.png)
 
 ### Main
 
-![](.gitbook/assets/snipaste_2018-09-27_15-22-47.png)
+![](../.gitbook/assets/snipaste_2018-09-27_15-22-47.png)
 
 ###  Snippet
 
@@ -32,23 +32,23 @@ This software is based on the github account, which can only be used after regis
 * Snippet editor
 * Snippet setting
 
-![](.gitbook/assets/snipaste_2018-09-27_15-22-38.png)
+![](../.gitbook/assets/snipaste_2018-09-27_15-22-38.png)
 
 ### Search Bar
 
 The default shortCut is \[ **Alt + Space \]**
 
-![](.gitbook/assets/search-bar.png)
+![](../.gitbook/assets/search-bar.png)
 
 ### Create Snippet
 
 The default shortcut is &lt; **Alt** + \] &gt;
 
-![](.gitbook/assets/create-snippet.png)
+![](../.gitbook/assets/create-snippet.png)
 
 ### Preferences
 
 This view support to config the basic features and hotkeys.
 
-![](.gitbook/assets/preferences.png)
+![](../.gitbook/assets/preferences.png)
 

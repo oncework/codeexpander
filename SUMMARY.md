@@ -1,11 +1,21 @@
 # Table of contents
 
 * [Oncework](README.md)
-* [Features](features.md)
-* [Installation](installation.md)
-* [View](view.md)
-* [Basic Usage](basic-usage.md)
-* [Advanced](advanced.md)
-* [Shortcut](shortcut.md)
-* [FAQ](faq.md)
+
+## Introduce
+
+* [Features](introduce/features.md)
+* [Installation](introduce/installation.md)
+* [Interface](introduce/screen.md)
+
+## Support
+
+* [Getting Started](support/basic-usage.md)
+* [Advanced](support/advanced.md)
+* [Fill-In](support/fill-in.md)
+
+## Reference
+
+* [Shortcut](reference/shortcut.md)
+* [FAQ](reference/faq.md)
 

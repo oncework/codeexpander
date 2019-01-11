@@ -30,13 +30,13 @@ Click the link to download
 
 ## Contents
 
-* [Features](features.md)
-* [Installation](installation.md)
-* [View](view.md)
-* [Basic Usage](basic-usage.md)
-* [Advanced](advanced.md)
-* [Shortcut](shortcut.md)
-* [FAQ](faq.md)
+* [Features](introduce/features.md)
+* [Installation](introduce/installation.md)
+* [View](introduce/screen.md)
+* [Basic Usage](support/basic-usage.md)
+* [Advanced](support/advanced.md)
+* [Shortcut](reference/shortcut.md)
+* [FAQ](reference/faq.md)
 
 ## Usage
 
