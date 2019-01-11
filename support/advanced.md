@@ -25,7 +25,7 @@ It has great flexibility to meet most `dynamic requirements`. However, the build
 
 > Its built-in function: clipboard properties `ONCEWORK_CLIPBOARD`
 
-![Example: All uppercase clipboard contents](../.gitbook/assets/image%20%282%29.png)
+![Example: All uppercase clipboard contents](../.gitbook/assets/image%20%283%29.png)
 
 ### Javascript
 
@@ -54,6 +54,8 @@ For simple example:
   echo $ONCEWORK_CLIPBOARD
   ```
 
+> `Oncework` captures the output of the `echo` and returns it to the consumer, because it is an essential element of the entire javascript, otherwise it gets nothing.
+
 ### Python
 
 For simple example:
@@ -64,6 +66,8 @@ For simple example:
   ```text
   print(ONCEWORK_CLIPBOARD)
   ```
+
+> `Oncework` captures the output of the `print` and returns it to the consumer, because it is an essential element of the entire javascript, otherwise it gets nothing.
 
 ### AppleScript
 
