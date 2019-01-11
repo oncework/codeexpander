@@ -29,3 +29,5 @@ For simple example:
   %clavier&key=A&modifier=command% %clavier&key=Backspace%
   ```
 
+![](../.gitbook/assets/keyboard.gif)
+
