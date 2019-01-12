@@ -27,9 +27,9 @@ description: This page introduces the basic functions of the software.
 
 Relative to other classes, Text Expander.
 
-![](../.gitbook/assets/snipaste_2018-09-27_15-22-38.png)
+![](.gitbook/assets/snipaste_2018-09-27_15-22-38.png)
 
-![](../.gitbook/assets/snipaste_2018-09-27_15-22-47.png)
+![](.gitbook/assets/snipaste_2018-09-27_15-22-47.png)
 
 ### Non-sensory synchronization of Gist functions
 
@@ -38,7 +38,7 @@ Relative to other classes, Text Expander.
 
 ### Compile the preview function
 
-![](../.gitbook/assets/snipaste_2018-09-27_16-48-55.png)
+![](.gitbook/assets/snipaste_2018-09-27_16-48-55.png)
 
 * [x] Text
 * [x] Javascript

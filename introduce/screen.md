@@ -1,8 +1,8 @@
 ---
-description: A preview of the basic functionality
+description: A quick overview of other introductions
 ---
 
-# Interface
+# ...
 
 ###  Login
 

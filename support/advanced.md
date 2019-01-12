@@ -34,7 +34,7 @@ For simple example:
 * In the snippet format drop-down menu, choose `Javascript` as the format type. 
 * In the snippet field, enter such a javascript script
 
-  ```text
+  ```javascript
   console.log("Hello world");
   ```
 
@@ -49,7 +49,7 @@ For simple example:
 * In the snippet format drop-down menu, choose `Shell` as the format type.
 * In the snippet field, enter such a shell script
 
-  ```text
+  ```bash
   #!/bin/sh
   echo $ONCEWORK_CLIPBOARD
   ```
@@ -63,7 +63,7 @@ For simple example:
 * In the snippet format drop-down menu, choose `Python` as the format type.
 * In the snippet field, enter such a shell script
 
-  ```text
+  ```python
   print(ONCEWORK_CLIPBOARD)
   ```
 

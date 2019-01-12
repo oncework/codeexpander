@@ -14,12 +14,14 @@ description: >-
 
 ![Operating options](../.gitbook/assets/image%20%282%29.png)
 
+![Operating custom](../.gitbook/assets/image%20%285%29.png)
+
 ## Composite Keyboard
 
 For simple example:
 
 * In the snippet format drop-down menu, choose `Text` as the format type.
-* In the snippet field, enter such a clavier script
+* In the snippet field, enter such a  `Text`
 
   ```text
   // Enter %clavier&key=Enter% 

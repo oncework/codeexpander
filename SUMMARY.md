@@ -1,12 +1,15 @@
 # Table of contents
 
 * [Oncework](README.md)
+* [Features](features.md)
+* [Pricing](price.md)
 
 ## Introduce
 
-* [Features](introduce/features.md)
 * [Installation](introduce/installation.md)
-* [Interface](introduce/screen.md)
+* [Snippet](introduce/snippet.md)
+* [Group](introduce/group.md)
+* [...](introduce/screen.md)
 
 ## Support
 
