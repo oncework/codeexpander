@@ -3,21 +3,21 @@
 * [Oncework](README.md)
 * [Features](features.md)
 * [Pricing](price.md)
+* [Changelog](changelog.md)
 
 ## Introduce
 
 * [Installation](introduce/installation.md)
-* [Snippet](introduce/snippet.md)
-* [Group](introduce/group.md)
-* [...](introduce/screen.md)
+* [Getting Started](introduce/basic-usage.md)
+* [Quick Browse](introduce/quick-browse.md)
 
 ## Support
 
-* [Getting Started](support/basic-usage.md)
-* [Text & Script](support/advanced.md)
-* [KeyBoard Component](support/keyboard-component.md)
-* [Calendar Component](support/calendar-component.md)
-* [Fill-In Component](support/fill-in.md)
+* [Group Setting](support/group.md)
+* [Text & Script](support/text-and-script.md)
+* [KeyBoard](support/keyboard.md)
+* [Calendar](support/calendar.md)
+* [Fill-In](support/fill-in.md)
 
 ## Reference
 

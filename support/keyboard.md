@@ -4,9 +4,9 @@ description: >-
   be followed by the next simulated key.
 ---
 
-# KeyBoard Component
+# KeyBoard
 
-## Default
+## KeyBoard Tool
 
 * `Enter`
 * `Esc`
@@ -14,7 +14,7 @@ description: >-
 
 ![Operating options](../.gitbook/assets/image%20%282%29.png)
 
-![Operating custom](../.gitbook/assets/image%20%285%29.png)
+![Operating custom](../.gitbook/assets/image%20%288%29.png)
 
 ## Composite Keyboard
 
