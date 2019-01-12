@@ -12,9 +12,9 @@ description: >-
 * `Esc`
 * `Tab`
 
-![Operating options](../.gitbook/assets/image%20%282%29.png)
+![Operating options](../.gitbook/assets/image%20%283%29.png)
 
-![Operating custom](../.gitbook/assets/image%20%288%29.png)
+![Operating custom](../.gitbook/assets/image%20%2810%29.png)
 
 ## Composite Keyboard
 
