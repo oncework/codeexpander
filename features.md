@@ -6,26 +6,21 @@ description: This page introduces the basic functions of the software.
 
 ### Work faster and smarter
 
-> Use Oncework’s powerful snippets and abbreviations to streamline and speed all you type.Create powerful snippets to save you time so that all you type is a short abbreviation, and Oncework does the rest of the typing for you.
+> Use `Oncework’s` powerful snippets and abbreviations to streamline and speed all you type.Create powerful snippets to save you time so that all you type is a short abbreviation, and `Oncework` does the rest of the typing for you.
 
-* Expand your snippets in any application from single lines to whole paragraphs
-* Search and expand snippets, abbreviations, and suggestions inline as you type
-* Reminders to use your snippets and suggestions as you type
+* Expand your snippets in `any application` from single lines to whole paragraphs
+* Search and expand `snippets`, `abbreviations`, and `suggestions` inline as you type
 
 ### Streamline code & data
 
-> Oncework has many features to help you sling code, create scripts, craft HTML and CSS, and satisfy the geek in all of us.
+> `Oncework` has many features to help you sling code, create scripts, craft HTML and CSS, and satisfy the geek in all of us.
 
-* For programmers, make editor-independent code templates
-* Invoke multi-platform JavaScript, AppleScript, Python and shell scripts even Go will be continue...
-* Shorten long URLs automatically \(Internet Productivity snippet group\)
-* Automatically insert clipboard content in a snippet
-* Import data from other type expansion apps 
-* Import and export snippet group files
+* For programmers, make `editor-independent code` templates
+* Invoke multi-platform `JavaScript`, `AppleScript`, `Python` and `shell` scripts even Go will be continue...
+* `Shorten long URLs` automatically \(Internet Productivity snippet group\)
+* Automatically insert `clipboard content` in a snippet
 
 ### Nice interface
-
-Relative to other classes, Text Expander.
 
 ![](.gitbook/assets/snipaste_2018-09-27_15-22-38.png)
 
@@ -33,8 +28,8 @@ Relative to other classes, Text Expander.
 
 ### Non-sensory synchronization of Gist functions
 
-* [x] Add, delete, and alter Gist
-* [x] Multi-level Gist relationship
+* [x] `Add`, `delete`, and `alter` Gist
+* [x] `Multi-level` Gist relationship
 
 ### Compile the preview function
 

@@ -25,7 +25,7 @@ It has great flexibility to meet most `dynamic requirements`. However, the build
 
 > Its built-in function: clipboard properties `ONCEWORK_CLIPBOARD`
 
-![Example: All uppercase clipboard contents](../.gitbook/assets/image%20%284%29.png)
+![Example: All uppercase clipboard contents](../.gitbook/assets/image%20%287%29.png)
 
 ### Javascript
 

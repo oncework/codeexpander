@@ -16,7 +16,7 @@ When you first start the software, the software will prompt as follows:
 
 ![](../.gitbook/assets/yin-si-an-zhuang.png)
 
-Open the system preferences and check \`Oncework\`
+Open the system preferences and check `Oncework`
 
 ![](../.gitbook/assets/yin-si-an-zhuang-2.png)
 
