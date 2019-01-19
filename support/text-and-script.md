@@ -15,7 +15,7 @@ As the name implies, `plain text` snippet insert unformatted text. In most cases
   * [Calendar Component](calendar.md)
   * [Fill-In Component](fill-in.md)
 
-![](../.gitbook/assets/image%20%281%29.png)
+![](../.gitbook/assets/image%20%282%29.png)
 
 ## Script Snippets
 
@@ -25,7 +25,7 @@ It has great flexibility to meet most `dynamic requirements`. However, the build
 
 > Its built-in function: clipboard properties `ONCEWORK_CLIPBOARD`
 
-![Example: All uppercase clipboard contents](../.gitbook/assets/image%20%287%29.png)
+![Example: All uppercase clipboard contents](../.gitbook/assets/image%20%289%29.png)
 
 ### Javascript
 
@@ -38,7 +38,7 @@ For simple example:
   console.log("Hello world");
   ```
 
-![](../.gitbook/assets/image%20%282%29.png)
+![](../.gitbook/assets/image%20%283%29.png)
 
 > `Oncework` captures the output of the `console` and returns it to the consumer, because it is an essential element of the entire javascript, otherwise it gets nothing.
 

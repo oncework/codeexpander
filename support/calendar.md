@@ -4,10 +4,12 @@
 
 Fast insert date anywhere. Add a future expiration date to your mail, a current date to your file name, all using a calendar.
 
+![](../.gitbook/assets/date.gif)
+
 * `Short、Medium、Long、Full`
 * `Custom Date Format`
 
-![](../.gitbook/assets/image%20%2819%29.png)
+![](../.gitbook/assets/image%20%2824%29.png)
 
 ### Basic **Localized formats**
 
@@ -28,11 +30,9 @@ Fast insert date anywhere. Add a future expiration date to your mail, a current 
 
 You can choose or customize the date format to support international standards.
 
-![](../.gitbook/assets/image%20%2811%29.png)
+![](../.gitbook/assets/image%20%2814%29.png)
 
 {% embed url="https://gist.github.com/xudaolong/f1eb82cf68a9dc54acc5a0e49b76cea9" %}
-
-![](../.gitbook/assets/date.gif)
 
 ### **Formats** Reference
 

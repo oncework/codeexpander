@@ -1,20 +1,17 @@
----
-description: >-
-  The keyboard will simulate a keyboard operation, and each simulated key will
-  be followed by the next simulated key.
----
-
 # KeyBoard
 
 ## KeyBoard Tool
 
-* `Enter`
-* `Esc`
-* `Tab`
+The keyboard will simulate a keyboard operation, and each simulated key will be followed by the next simulated key.
 
-![Operating options](../.gitbook/assets/image%20%285%29.png)
+![](../.gitbook/assets/keyboard.gif)
 
-![Operating custom](../.gitbook/assets/image%20%2817%29.png)
+* `Enter、Esc、Tab`
+* `Composite Keyboard`
+
+![Operating options](../.gitbook/assets/image%20%287%29.png)
+
+![Operating custom](../.gitbook/assets/image%20%2821%29.png)
 
 ## Composite Keyboard
 
@@ -30,6 +27,4 @@ For simple example:
   // Select and clear everything   
   %clavier&key=A&modifier=command% %clavier&key=Backspace%
   ```
-
-![](../.gitbook/assets/keyboard.gif)
 

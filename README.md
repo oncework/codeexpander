@@ -1,6 +1,12 @@
+---
+description: "Desktop shortcut app use snippet on MacOs & Windows. \uD83D\uDE0A\uD83D\uDE0A\uD83D\uDE0A"
+---
+
 # Oncework
 
-Oncework is an efficiency software like TextExpander or aText that combines github-gist. In short, it is a quick input tool for Mac/Win. It can save Content that needs to be typed repeatedly, and it can preset an Abbreviation, which will be automatically expanded the next time you need it.
+## Description
+
+`Oncework` is an efficiency software like TextExpander or aText that combines `Github Gist`. In short, it is a quick input tool for `Macos` & `Windows`. It can save Content that needs to be typed repeatedly or script snippet, and it can preset an `Abbreviation`, which will be automatically expanded the next time you need it.
 
 ## **Download**
 
@@ -26,7 +32,7 @@ Click the link to download
  For macOS 10.12 \(Mavericks\) and earlier, please check and report to us.
 {% endhint %}
 
-## Usage
+## Common use cases
 
 Set values to replace
 

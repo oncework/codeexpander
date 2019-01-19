@@ -4,27 +4,56 @@ description: This page shows you how to use the software properly.
 
 # Getting Started
 
-#### How to create tag ?
+## Setting Up Your Account
 
-Just touch the **Group** flag and open window to create.
+1. Create a [Github](https://github.com/join?source=experiment-header-dropdowns-home) account.
+2. [Download](https://github.com/oncework/oncework/releases) the app. 
 
-![](../.gitbook/assets/create-tag-tip.png)
+At this point, you can purchase the software activation code or continue to use the free mode
 
-#### How to create snippet ?
+## Setting Up Your App
 
-You can use shortcut **Alt** + \] and open the Create-Snippet-window or touch the plus button as follow.
+Follow these steps to learn how to use the software
 
-![](../.gitbook/assets/create-snippet-tip.png)
+### Install the `oncework`
 
-#### How do I see where my snippets are stored ？
+You can refer to this module for installation
 
-Just click the **Link** icon and jump to the gist website.
+{% page-ref page="installation.md" %}
 
-![](../.gitbook/assets/jump-to-gist.png)
+### Login the `github` account
 
-#### How to set custom parameters ? <a id="how-to-set-custom-parameters"></a>
+![](../.gitbook/assets/image%20%2816%29.png)
 
-You can set the hotkeys or more and more.
+### Create a new group
 
-![](../.gitbook/assets/preferences.png)
+You can use [shortcut](../support/reference/shortcut.md) `⌘ + T` and open the create-group-modal or touch the plus button as follow.
+
+![](../.gitbook/assets/image%20%2823%29.png)
+
+### Create a new snippet
+
+You can use [shortcut](../support/reference/shortcut.md) `Alt + ]` and open the Create-Snippet-window or touch the plus button as follow.
+
+![](../.gitbook/assets/image%20%281%29.png)
+
+### Select the snippet type that you want
+
+{% page-ref page="../support/text-and-script.md" %}
+
+#### Done.
+
+## FAQ
+
+#### Can I edit my snippets online?
+
+`Yes`.Just click the **Link** icon and jump to the `gist website`.
+
+![](../.gitbook/assets/image%20%2811%29.png)
+
+#### Can I configure the preferences of the software？
+
+`Yes`. You can set the `hotkeys` or more and more.
+
+![](../.gitbook/assets/settings.png)
 
