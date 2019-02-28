@@ -1,7 +1,3 @@
----
-description: "Desktop shortcut app use snippet on MacOs & Windows. \uD83D\uDE0A\uD83D\uDE0A\uD83D\uDE0A"
----
-
 # Oncework
 
 ## Description
