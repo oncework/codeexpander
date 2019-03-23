@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Oncework](README.md)
+* [CodeExpander](README.md)
 * [Features](features.md)
 * [Pricing](price.md)
 
