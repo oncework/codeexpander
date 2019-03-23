@@ -6,14 +6,14 @@ description: This page introduces the basic functions of the software.
 
 ### Work faster and smarter
 
-> Use `Oncework’s` powerful snippets and abbreviations to streamline and speed all you type.Create powerful snippets to save you time so that all you type is a short abbreviation, and `Oncework` does the rest of the typing for you.
+> Use `CodeExpander’s` powerful snippets and abbreviations to streamline and speed all you type.Create powerful snippets to save you time so that all you type is a short abbreviation, and `CodeExpander` does the rest of the typing for you.
 
 * Expand your snippets in `any application` from single lines to whole paragraphs
 * Search and expand `snippets`, `abbreviations`, and `suggestions` inline as you type
 
 ### Streamline code & data
 
-> `Oncework` has many features to help you sling code, create scripts, craft HTML and CSS, and satisfy the geek in all of us.
+> `CodeExpander` has many features to help you sling code, create scripts, craft HTML and CSS, and satisfy the geek in all of us.
 
 * For programmers, make `editor-independent code` templates
 * Invoke multi-platform `JavaScript`, `AppleScript`, `Python` and `shell` scripts even Go will be continue...

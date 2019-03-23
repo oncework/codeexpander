@@ -2,7 +2,7 @@
 
 ## Pricing Plans
 
-Most of the features in the current version of `Oncework` are free, and you only need to purchase an activation code to support author updates. New features are now being updated every two weeks.
+Most of the features in the current version of `CodeExpander` are free, and you only need to purchase an activation code to support author updates. New features are now being updated every two weeks.
 
 #### Try it now
 

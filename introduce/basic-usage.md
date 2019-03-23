@@ -7,7 +7,7 @@ description: This page shows you how to use the software properly.
 ## Setting Up Your Account
 
 1. Create a [Github](https://github.com/join?source=experiment-header-dropdowns-home) account.
-2. [Download](https://github.com/oncework/oncework/releases) the app. 
+2. [Download](https://github.com/oncework/codeexpander/releases) the app. 
 
 At this point, you can purchase the software activation code or continue to use the free mode
 
