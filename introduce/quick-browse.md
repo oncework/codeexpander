@@ -6,7 +6,7 @@ description: A quick overview of other introductions
 
 ###  Login
 
-This software is based on the github account, which can only be used after registration. No user information is stored in the background.
+This software is based on the `Github` account, which can only be used after registration. No user information is stored in the background.
 
 ![](../.gitbook/assets/login-sign-in.png)
 

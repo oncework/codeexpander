@@ -23,7 +23,7 @@ Snippets are functional snippets provided to people with a certain amount of `co
 
 It has great flexibility to meet most `dynamic requirements`. However, the build environment depends on the native environment, so you need to install the associated build environment.
 
-> Its built-in function: clipboard properties `ONCEWORK_CLIPBOARD`
+> Its built-in function: clipboard properties `CODEEXPANDER_CLIPBOARD`
 
 ![Example: All uppercase clipboard contents](../.gitbook/assets/image%20%289%29.png)
 
@@ -40,7 +40,7 @@ For simple example:
 
 ![](../.gitbook/assets/image%20%283%29.png)
 
-> `Oncework` captures the output of the `console` and returns it to the consumer, because it is an essential element of the entire javascript, otherwise it gets nothing.
+> `CodeExpander` captures the output of the `console` and returns it to the consumer, because it is an essential element of the entire javascript, otherwise it gets nothing.
 
 ### Shell
 
@@ -51,10 +51,10 @@ For simple example:
 
   ```bash
   #!/bin/sh
-  echo $ONCEWORK_CLIPBOARD
+  echo $CODEEXPANDER_CLIPBOARD
   ```
 
-> `Oncework` captures the output of the `echo` and returns it to the consumer, because it is an essential element of the entire javascript, otherwise it gets nothing.
+> `CodeExpander` captures the output of the `echo` and returns it to the consumer, because it is an essential element of the entire javascript, otherwise it gets nothing.
 
 ### Python
 
@@ -64,10 +64,10 @@ For simple example:
 * In the snippet field, enter such a shell script
 
   ```python
-  print(ONCEWORK_CLIPBOARD)
+  print(CODEEXPANDER_CLIPBOARD)
   ```
 
-> `Oncework` captures the output of the `print` and returns it to the consumer, because it is an essential element of the entire javascript, otherwise it gets nothing.
+> `CodeExpander` captures the output of the `print` and returns it to the consumer, because it is an essential element of the entire javascript, otherwise it gets nothing.
 
 ### AppleScript
 

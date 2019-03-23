@@ -15,7 +15,7 @@ At this point, you can purchase the software activation code or continue to use 
 
 Follow these steps to learn how to use the software
 
-### Install the `oncework`
+### Install
 
 You can refer to this module for installation
 

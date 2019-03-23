@@ -24,5 +24,9 @@ MacOS 10.14/10.13/10.12/10.11 \(Mojave, High Sierra, Sierra...\) **Or** Windows 
 
 ![](.gitbook/assets/search-bar.gif)
 
+#### Create and share beautiful Snippets
+
+![](.gitbook/assets/gene-pic.gif)
+
 
 
