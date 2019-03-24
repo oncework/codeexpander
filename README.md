@@ -12,21 +12,14 @@ MacOS 10.14/10.13/10.12/10.11 \(Mojave, High Sierra, Sierra...\) **Or** Windows 
 
 ## Common use cases
 
-#### Reply Mail
+|                Quick Create                |        Dynamic script generation        |
+| :----------------------------------------: | :-------------------------------------: |
+| ![](.gitbook/assets/gene-snippet.gif) | ![](.gitbook/assets/gene-md.gif) |
 
-![](.gitbook/assets/fill-in%20%281%29.gif)
+|                 Reply Mail                 |           Custom code snippet           |
+| :----------------------------------------: | :-------------------------------------: |
+| ![](.gitbook/assets/fill-in%20%281%29.gif) | ![](.gitbook/assets/custom-snippet.gif) |
 
-####  Custom code snippet
-
-![](.gitbook/assets/custom-snippet.gif)
-
-#### Search snippets
-
-![](.gitbook/assets/search-bar.gif)
-
-#### Create and share beautiful Snippets
-
-![](.gitbook/assets/gene-pic.gif)
-
-
-
+|           Search snippets           | Create and share beautiful Snippets |
+| :---------------------------------: | :---------------------------------: |
+| ![](.gitbook/assets/search-bar.gif) |  ![](.gitbook/assets/gene-pic.gif)  |
