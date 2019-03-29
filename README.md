@@ -40,25 +40,31 @@ Buy now for \$4.99
 ## Common use cases
 
 Quick Create
+
 ![](.gitbook/assets/gene-snippet.gif)
 
 Dynamic script generation
+
 ![](.gitbook/assets/gene-md.gif)
 
 Reply Mail
+
 ![](.gitbook/assets/fill-in%20%281%29.gif)
 
 Custom code snippet
+
 ![](.gitbook/assets/custom-snippet.gif)
 
 Search snippets
+
 ![](.gitbook/assets/search-bar.gif)
 
 Create and share beautiful Snippets
+
 ![](.gitbook/assets/gene-pic.gif)
 
 ## **Support**
 
-![](https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=135763&theme=light)
-
 [Product hunt support](https://www.producthunt.com/posts/oncework?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-oncework)
+
+![](https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=135763&theme=light)
