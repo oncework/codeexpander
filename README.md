@@ -2,8 +2,6 @@
 
 `CodeExpander` is a smart feature with TextExpander and embraces the GitHub Gist client. It saves and manages text or script segments that require repeated input and can be expanded automatically by setting abbreviations.
 
-<a href="https://www.producthunt.com/posts/oncework?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-oncework" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=135763&theme=light" alt="CodeExpander - Type faster using abbreviations for phrases with gist. | Product Hunt Embed" style="width: 125px; height: 54px;" width="250px" height="54px" /></a>
-
 ![](.gitbook/assets/map-main.png)
 
 ## **Feature**
@@ -58,3 +56,9 @@ Search snippets
 
 Create and share beautiful Snippets
 ![](.gitbook/assets/gene-pic.gif)
+
+## **Support**
+
+![](https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=135763&theme=light)
+
+[Product hunt support](https://www.producthunt.com/posts/oncework?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-oncework)
