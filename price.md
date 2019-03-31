@@ -9,8 +9,8 @@ Most of the features in the current version of `CodeExpander` are free, and you 
 Purchase channels
 
 > One purchase, permanent use
+* [爱发卡](http://t.cn/EUl64FS)
 * [Paddle](https://pay.paddle.com/checkout/540339)
-* [爱发卡 For China](http://t.cn/EUl64FS)
 
 ## Update Status
 

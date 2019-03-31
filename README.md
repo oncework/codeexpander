@@ -34,8 +34,8 @@ MacOS 10.14/10.13/10.12/10.11 \(Mojave, High Sierra, Sierra...\) **Or** Windows 
 
 Buy now for \$4.99
 
-- [Paddle](https://pay.paddle.com/checkout/540339)
 - [爱发卡](http://t.cn/EUl64FS)
+- [Paddle](https://pay.paddle.com/checkout/540339)
 
 ## Common use cases
 
