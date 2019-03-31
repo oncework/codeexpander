@@ -1,12 +1,12 @@
 # CodeExpander
 
-`CodeExpander` is a smart feature with TextExpander and embraces the GitHub Gist client. It saves and manages text or script segments that require repeated input and can be expanded automatically by setting abbreviations.
+`CodeExpander` is a smart feature with TextExpander and embraces the GitHub Gist client. It saves and manages text or script snippets that require repeated input and can be expanded automatically by setting abbreviations.
 
 ![](.gitbook/assets/map-main.png)
 
 ## **Feature**
 
-- Unlimited public/private segments
+- Unlimited public/private snippets
 - Unlimited snippets group
 - Cloud synchronization, online editing and sharing support
 - Instant instruction support
