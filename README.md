@@ -31,8 +31,7 @@ MacOS 10.14/10.13/10.12/10.11 \(Mojave, High Sierra, Sierra...\) **Or** Windows 
 [Click to Download](https://github.com/oncework/codeexpander/releases)
 
 ## **Pricing**
-
-Buy now for \$4.99
+Most features are free and buy now for \$4.99 if you want to support the author
 
 - [爱发卡](http://t.cn/EUl64FS)
 - [Paddle](https://pay.paddle.com/checkout/540339)
