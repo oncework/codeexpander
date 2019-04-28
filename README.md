@@ -8,16 +8,17 @@
 
 - Unlimited public/private snippets
 - Unlimited snippets group
-- Cloud synchronization, online editing and sharing support
-- Instant instruction support
-- Dynamic script snippet support
-- Custom date, simulated keyboard macros, generated text template support
-- Code highlighting, formatting, substitution support
+- Markdown features(abbr、deflist、emoji、footnote...)
+- Cloud synchronization, online editing and sharing 
+- Instant instruction 
+- Dynamic script snippet 
+- Custom date, simulated keyboard macros, generated text template 
+- Code highlighting, formatting, substitution...
 - Generate custom theme snippet images(png/svg)
-- Search snippet support
+- Search snippet 
 - Proxy
-- Cross-platform support
-- Hot update support
+- Cross-platform
+- Hot update
   ...
 
 ## **Document**
@@ -35,6 +36,9 @@ Most features are free and buy now for \$4.99 if you want to support the author
 
 - [爱发卡](http://t.cn/EUl64FS)
 - [Paddle](https://pay.paddle.com/checkout/540339)
+
+Please contact me if you have any questions
+![](.gitbook/assets/weixin-profile.jpg)
 
 ## Common use cases
 
