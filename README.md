@@ -38,6 +38,7 @@ Most features are free and buy now for \$4.99 if you want to support the author
 - [Paddle](https://pay.paddle.com/checkout/540339)
 
 Please contact me if you have any questions
+
 ![](.gitbook/assets/weixin-profile.jpg)
 
 ## Common use cases
