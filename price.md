@@ -9,7 +9,7 @@ Most of the features in the current version of `CodeExpander` are free, and you 
 Purchase channels
 
 > One purchase, permanent use
-* [爱发卡](http://t.cn/EUl64FS)
+* [爱发卡](https://w.url.cn/s/AHRprNl)
 * [Paddle](https://pay.paddle.com/checkout/540339)
 
 ## Update Status
