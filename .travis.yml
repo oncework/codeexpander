@@ -1,0 +1,17 @@
+language: node_js
+node_js:
+  - lts/*
+script:
+  - npm run build
+deploy:
+  provider: pages
+  skip-cleanup: true
+  local_dir: public # 项目打包后生成的文件的目录
+  github-token: $GITHUB_TOKEN # 这里这个变量就是刚才配置 token 时填写的那个变量
+  target-branch: master
+  keep-history: true
+  on:
+    branch: gh-pages-source
+branches:
+  only:
+    - gh-pages-source

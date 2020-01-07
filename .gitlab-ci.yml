@@ -1,0 +1,16 @@
+image: node:10.15.3
+
+pages:
+#  cache:
+#    paths:
+#    - node_modules/
+
+ script:
+ - npm cache verify
+ - npm install
+ - npm run build
+ artifacts:
+   paths:
+   - public
+ only:
+ - master
