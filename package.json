@@ -3,19 +3,23 @@
   "homepage": "./",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "vuepress dev docs",
-    "build": "vuepress build docs",
+    "pre": "node scripts/pre.js",
+    "dev": "npm run pre && vuepress dev docs",
+    "build": "npm run pre && vuepress build docs",
     "publish": "bash deploy.sh"
   },
   "dependencies": {
-    "vuepress": "1.2.0",
-    "vuepress-theme-reco": "1.2.1",
-    "whatwg-fetch": "3.0.0",
+    "@vuepress-reco/vuepress-plugin-rss": "1.0.0",
+    "@vuepress/plugin-google-analytics": "1.2.0",
     "@vuepress/plugin-pwa": "1.2.0",
     "@vuepress/plugin-register-components": "1.2.0",
-    "@vuepress/plugin-google-analytics": "1.2.0",
+    "vuepress": "1.2.0",
     "vuepress-plugin-flowchart": "1.4.3",
     "vuepress-plugin-sitemap": "2.3.0",
-    "@vuepress-reco/vuepress-plugin-rss": "1.0.0"
+    "vuepress-theme-reco": "1.2.1",
+    "whatwg-fetch": "3.0.0"
+  },
+  "devDependencies": {
+    "fs-extra": "^8.1.0"
   }
 }

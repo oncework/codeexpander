@@ -27,39 +27,6 @@
       }}</router-link>
       <img class="banner img-shadow" src="./images/main.png" alt="" />
     </section>
-    <section class="wish yesterday">
-      <div class="wish-inner">
-        <div class="img-wrapper">
-          <img src="./images/yesterday.svg" alt="" />
-        </div>
-        <div class="text-wrapper">
-          <h1>{{ features[0].title }}</h1>
-          <p class="description">{{ features[0].details }}</p>
-        </div>
-      </div>
-    </section>
-    <section class="wish today">
-      <div class="wish-inner">
-        <div class="text-wrapper">
-          <h1>{{ features[1].title }}</h1>
-          <p class="description">{{ features[1].details }}</p>
-        </div>
-        <div class="img-wrapper">
-          <img src="./images/today.svg" alt="" />
-        </div>
-      </div>
-    </section>
-    <section class="wish tomorrow">
-      <div class="wish-inner">
-        <div class="img-wrapper">
-          <img src="./images/tomorrow.svg" alt="" />
-        </div>
-        <div class="text-wrapper">
-          <h1>{{ features[2].title }}</h1>
-          <p class="description">{{ features[2].details }}</p>
-        </div>
-      </div>
-    </section>
     <section class="md-content-wrapper">
       <Content />
     </section>
