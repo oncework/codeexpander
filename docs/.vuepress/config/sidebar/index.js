@@ -1,162 +1,54 @@
 module.exports = {
   'zh': Object.assign({}, {
-    '/views/1.x/': [
+    '/views/introduce/': [
       {
         title: '基础',
         collapsable: false,
         children: [
-          '',
-          'installUse',
-          'blog',
-          'frontMatter'
+          'features',
+          'installation',
+          'basic-usage',
+          'quick-browse'
         ]
-      },
+      }
+    ],
+    '/views/advance/': [
       {
         title: '进阶',
         collapsable: false,
         children: [
-          'timeline',
-          'valine',
-          'password',
-          'configJs',
-          'home',
-          'themePicker',
-          'ga',
-          '404',
-          'mode'
-        ]
-      },
-      {
-        title: '默认主题配置',
-        collapsable: false,
-        children: [
-          'abstract',
-          'syntax',
-          'customStyleAndScript',
-          'sidebar'
-        ]
-      },
-      {
-        title: '其他',
-        collapsable: false,
-        children: [
-          '0update1',
-          'recommend'
-        ]
-      }
-    ],
-    '/views/0.x/': [
-      {
-        title: '基础',
-        collapsable: false,
-        children: [
-          '',
-          'installUse',
-          'category',
-          'tag',
-        ]
-      },
-      {
-        title: '进阶',
-        collapsable: false,
-        children: [
-          'timeline',
-          'valine',
-          'password',
-          'configJs',
-          'home'
-        ]
-      },
-      {
-        title: '其他',
-        collapsable: false,
-        children: [
-          'abstract',
-        ]
-      }
-    ],
-    '/views/plugins/': [
-      {
-        title: '插件',
-        collapsable: true,
-        children: [
-          '',
-          'backToTop',
-          'pagation',
-          'screenfull',
-          'loadingPage',
-          'ga',
-          'kanbanniang',
-          'comments',
-          'extractCode',
-          'rss',
-          'bgmPlayer'
+          'group',
+          'text-and-script',
+          'keyboard',
+          'calendar',
+          'fill-in'
         ]
       }
     ]
   }),
   'en': Object.assign({}, {
-    '/en/views/1.x/': [
+    '/en/views/introduce/': [
       {
         title: 'Basic',
         collapsable: false,
         children: [
-          '',
-          'installUse',
-          'blog',
-          'frontMatter'
-        ]
-      },
-      {
-        title: 'Advanced',
-        collapsable: false,
-        children: [
-          'timeline',
-          'valine',
-          'password',
-          'configJs',
-          'home',
-          'themePicker',
-          'ga',
-          '404',
-          'mode'
-        ]
-      },
-      {
-        title: 'Default Theme Config',
-        collapsable: false,
-        children: [
-          'abstract',
-          'syntax',
-          'customStyleAndScript',
-          'sidebar'
-        ]
-      },
-      {
-        title: 'Other',
-        collapsable: false,
-        children: [
-          '0update1',
-          'recommend'
+          'features',
+          'installation',
+          'basic-usage',
+          'quick-browse'
         ]
       }
     ],
-    '/en/views/plugins/': [
+    '/en/views/advance/': [
       {
-        title: 'Plugins',
-        collapsable: true,
+        title: 'Advance',
+        collapsable: false,
         children: [
-          '',
-          'backToTop',
-          'pagation',
-          'screenfull',
-          'loadingPage',
-          'ga',
-          'kanbanniang',
-          'comments',
-          'extractCode',
-          'rss',
-          'bgmPlayer'
+          'group',
+          'text-and-script',
+          'keyboard',
+          'calendar',
+          'fill-in'
         ]
       }
     ]
