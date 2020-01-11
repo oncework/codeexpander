@@ -20,8 +20,6 @@ Follow these steps to learn how to use the software
 
 You can refer to this module for installation
 
-{% page-ref page="installation.md" %}
-
 ### Login the `github` account
 
 ![](./img/usage-login.png)
@@ -39,8 +37,6 @@ You can use [shortcut](../support/reference/shortcut.md) `Alt + ]` and open the 
 ![](./img/usage-snippet.png)
 
 ### Select the snippet type that you want
-
-{% page-ref page="../support/text-and-script.md" %}
 
 #### Done.
 

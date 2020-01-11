@@ -40,8 +40,6 @@ installation.md
 
 ### 选择片段类型
 
-{% page-ref page="../support/text-and-script.md" %}
-
 #### 完成.
 
 ## 常问问题

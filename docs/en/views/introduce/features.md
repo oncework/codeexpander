@@ -42,6 +42,4 @@ date: 2020-01-11
 - ✅ Bash Shell
 - ✅ AppleScript
 
-{% hint style="info" %}
 Please let us know if there are any Suggestions or features you would like to implement.
-{% endhint %}

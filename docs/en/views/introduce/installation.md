@@ -21,9 +21,7 @@ Open the system preferences and check `CodeExpander`
 
 ![](./img/installation-lock.png)
 
-{% hint style="info" %}
 Tips: please restart the software after setting, otherwise the normal software cannot be run.
-{% endhint %}
 
 ### Compile functional environment support
 
@@ -33,6 +31,4 @@ $ sh
 $ python -v
 ```
 
-{% hint style="info" %}
 If some of these commands are missing, please download and install them yourself.
-{% endhint %}
