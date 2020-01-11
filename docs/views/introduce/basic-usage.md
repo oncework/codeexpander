@@ -20,7 +20,7 @@ date: 2020-01-11
 
 您可以参考此模块进行安装
 
-{% page-ref page="installation.md" %}
+installation.md
 
 ### 登录`github`帐户
 

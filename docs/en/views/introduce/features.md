@@ -29,18 +29,18 @@ date: 2020-01-11
 
 ### Non-sensory synchronization of Gist functions
 
-- [x] `Add`, `delete`, and `alter` Gist
-- [x] `Multi-level` Gist relationship
+- ✅ `Add`, `delete`, and `alter` Gist
+- ✅ `Multi-level` Gist relationship
 
 ### Compile the preview function
 
 ![](./img/features-language.png)
 
-- [x] Text
-- [x] Javascript
-- [x] Python
-- [x] Bash Shell
-- [x] AppleScript
+- ✅ Text
+- ✅ Javascript
+- ✅ Python
+- ✅ Bash Shell
+- ✅ AppleScript
 
 {% hint style="info" %}
 Please let us know if there are any Suggestions or features you would like to implement.

@@ -1,10 +1,11 @@
-当前版本的`CodeExpander`中的大多数功能都是免费的，您只需购买激活码即可支持作者更新。新功能现在每两周更新一次。
+---
+title: 方案
+date: 2020-01-11
+---
 
-#### 现在就试试
+当前版本的`CodeExpander`中的绝大多数功能都是免费的，您只需购买激活码即可支持作者。
 
-购买渠道
-
-> 一次购买, 永久使用
+## 永久版本
 
 - [Paddle](https://pay.paddle.com/checkout/540339)
-- [爱发卡 For China ( 38.8 元 )](https://w.url.cn/s/AHRprNl)
+- [爱发卡](https://w.url.cn/s/AHRprNl)

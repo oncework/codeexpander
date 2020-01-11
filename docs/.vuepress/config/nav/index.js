@@ -23,10 +23,10 @@ module.exports = {
         }
       ]
     },
-    { text: '价格', link: '/views/price', icon: 'reco-faq' },
+    { text: '方案', link: '/views/price', icon: 'reco-category' },
     { text: '常见问题', link: '/views/reference/faq.md', icon: 'reco-faq' },
-    { text: '博客', link: '/categories/blog/', icon: 'reco-blog' },
-    { text: '订阅', link: 'https://codeexpander.com/rss.xml', icon: 'reco-rss' }
+    // { text: '博客', link: '/categories/blog/', icon: 'reco-blog' },
+    // { text: '订阅', link: 'https://codeexpander.com/rss.xml', icon: 'reco-rss' }
   ],
   'en': [
     {
@@ -52,9 +52,9 @@ module.exports = {
         }
       ]
     },
-    { text: 'Pricing', link: '/en/views/price', icon: 'reco-faq' },
+    { text: 'Pricing', link: '/en/views/price', icon: 'reco-category' },
     { text: 'FAQ', link: '/en/views/reference/faq.md', icon: 'reco-faq' },
-    { text: 'Blog', link: '/en/categories/blog/', icon: 'reco-blog' },
-    { text: 'RSS', link: 'https://codeexpander.com/rss.xml', icon: 'reco-rss' }
+    // { text: 'Blog', link: '/en/categories/blog/', icon: 'reco-blog' },
+    // { text: 'RSS', link: 'https://codeexpander.com/rss.xml', icon: 'reco-rss' }
   ]
 }

@@ -21,9 +21,7 @@ date: 2020-01-11
 
 ![](./img/installation-lock.png)
 
-{% hint style="info" %}
 提示：请在设置后重启软件，否则无法正常运行软件。
-{% endhint %}
 
 ### 编译功能环境支持
 
@@ -33,7 +31,5 @@ $ sh
 $ python -v
 ```
 
-{% hint style="info" %}
 如果缺少其中一些命令，请自行下载并安装。
-{% endhint %}
 

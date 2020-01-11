@@ -12,7 +12,7 @@ heroImageStyle:
   }
 isShowTitleInHome: true
 actionText: "Getting Started"
-actionLink: /views/other/about
+actionLink: /en/views/introduce/basic-usage
 ---
 
 ## **Feature**

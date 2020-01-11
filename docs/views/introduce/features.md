@@ -28,22 +28,20 @@ date: 2019-04-09
 
 ### 无感Gist的同步
 
-* [x] `Add`, `delete`, and `alter` Gist
-* [x] `Multi-level` Gist relationship
+* ✅ `Add`, `delete`, and `alter` Gist
+* ✅ `Multi-level` Gist relationship
 
 ### 编译预览功能
 
 ![](./img/features-language.png)
 
-* [x] Text
-* [x] Javascript
-* [x] Python
-* [x] Bash Shell
-* [x] AppleScript
+* ✅ Text
+* ✅ Javascript
+* ✅ Python
+* ✅ Bash Shell
+* ✅ AppleScript
 
-{% hint style="info" %}
  如果您有任何建议或功能想要实施，请告诉我们。
-{% endhint %}
 
 
 

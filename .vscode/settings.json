@@ -3,6 +3,7 @@
         "codeexpander",
         "oncework",
         "reco",
-        "vuepress"
+        "vuepress",
+        "vuetify"
     ]
 }

@@ -15,16 +15,16 @@ module.exports = {
   // 项目开始时间
   startYear: '2018',
   algolia: {
-    apiKey: '97357e58cac743c6de62036cb152f18b',
-    indexName: 'vuepress-theme-reco'
+    apiKey: 'c116df54bb9e55b30cd97fc025951c8b',
+    indexName: 'codeexpander'
     // inputSelector: '### REPLACE ME ####',
     // algoliaOptions: { 'facetFilters': ["lang:$LANG"] },
     // debug: false // Set debug to true if you want to inspect the dropdown
   },
   // valine 设置
   valineConfig: {
-    appId: 'jvc9s4BkJYQNOcpsbVTPMePe-gzGzoHsz',
-    appKey: 'Js91M9DfM9vPwVaUj7xdkbxh',
+    appId: '7Wrx6uzGdo3qnsLz8SJIRaqH-gzGzoHsz',
+    appKey: 'EUJBSYTP5iPriKgw0YQ5g0xf',
     placeholder: '填写邮箱可以收到回复提醒哦！',
     notify: true,
     recordIP: true
@@ -39,9 +39,7 @@ module.exports = {
   // },
   // 假定是 GitHub. 同时也可以是一个完整的 GitLab URL
   repo: 'oncework/codeexpander',
-  // 假如文档不是放在仓库的根目录下：
   docsDir: 'docs',
-  // 假如文档放在一个特定的分支下：
   docsBranch: 'gh-pages-source',
   // 默认是 false, 设置为 true 来启用
   editLinks: true

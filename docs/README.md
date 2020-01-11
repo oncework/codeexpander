@@ -11,8 +11,8 @@ heroImageStyle:
     borderRadius: "1rem",
   }
 isShowTitleInHome: true
-actionText: "Getting Started"
-actionLink: /views/other/about
+actionText: "开始使用"
+actionLink: /views/introduce/basic-usage
 ---
 
 ## **功能**
