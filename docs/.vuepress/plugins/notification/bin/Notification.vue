@@ -45,7 +45,7 @@ export default {
   width 260px
   box-sizing border-box
   background #fff
-  border 1px solid #3eaf7c
+  border 1px solid #e98d1c
   border-radius .25rem
   background var(--background-color)
   box-shadow var(--box-shadow)
@@ -54,7 +54,7 @@ export default {
     box-sizing border-box
     padding 10px
     margin 0
-    background #3eaf7c
+    background #e98d1c
     color #fff
     i 
       color #fff

@@ -1,21 +1,19 @@
 ---
-title: A quick overview of other introductions
+title: Layout
 date: 2020-01-11
 ---
 
-# Quick Browse
-
-### Login
+## Login
 
 This software is based on the `Github` account, which can only be used after registration. No user information is stored in the background.
 
 ![](./img/layout-login-sign-in.png)
 
-### Main
+## Main
 
 ![](./img/features-intro.png)
 
-### Snippet
+## Snippet
 
 - Show list of tags
 - The Gist list of tags corresponding to rows
@@ -35,19 +33,19 @@ This software is based on the `Github` account, which can only be used after reg
 
 ![](./img/features-editing.png)
 
-### Search Bar
+## Search Bar
 
 The default shortCut is \[ **Alt + Space \]**
 
 ![](./img/layout-search-bar.png)
 
-### Create Snippet
+## Create Snippet
 
 The default shortcut is &lt; **Alt** + \] &gt;
 
 ![](./img/layout-create-snippet.png)
 
-### Preferences
+## Preferences
 
 This view support to config the basic features and hotkeys.
 

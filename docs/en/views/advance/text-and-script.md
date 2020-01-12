@@ -1,9 +1,7 @@
 ---
-title: Snippets can be either Plain Text or a script.
+title: Text & Script
 date: 2020-01-11
 ---
-
-# Text & Script
 
 ## Plain Text Snippets
 
@@ -28,7 +26,7 @@ It has great flexibility to meet most `dynamic requirements`. However, the build
 
 ![Example: All uppercase clipboard contents](./img/text-script-script.png)
 
-### Javascript
+## Javascript
 
 For simple example:
 
@@ -43,7 +41,7 @@ For simple example:
 
 > `CodeExpander` captures the output of the `console` and returns it to the consumer, because it is an essential element of the entire javascript, otherwise it gets nothing.
 
-### Shell
+## Shell
 
 For simple example:
 
@@ -57,7 +55,7 @@ For simple example:
 
 > `CodeExpander` captures the output of the `echo` and returns it to the consumer, because it is an essential element of the entire javascript, otherwise it gets nothing.
 
-### Python
+## Python
 
 For simple example:
 
@@ -70,6 +68,6 @@ For simple example:
 
 > `CodeExpander` captures the output of the `print` and returns it to the consumer, because it is an essential element of the entire javascript, otherwise it gets nothing.
 
-### AppleScript
+## AppleScript
 
 Same as above.

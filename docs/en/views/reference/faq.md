@@ -1,9 +1,7 @@
 ---
-title: Here are the questions frequently asked by consultants
+title: FAQ
 date: 2020-01-11
----
-
-# FAQ
+--- 
 
 #### What is the gist ?
 

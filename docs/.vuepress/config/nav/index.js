@@ -6,7 +6,7 @@ module.exports = {
       items: [
         {
           text: '基础', items: [
-            { text: '特性', link: '/views/introduce/features' },
+            { text: '功能', link: '/views/introduce/features' },
             { text: '安装', link: '/views/introduce/installation' },
             { text: '入门', link: '/views/introduce/basic-usage' },
             { text: '界面', link: '/views/introduce/quick-browse' },
@@ -16,8 +16,8 @@ module.exports = {
           text: '进阶', items: [
             { text: '组管理', link: '/views/advance/group' },
             { text: '文本与脚本', link: '/views/advance/text-and-script' },
-            { text: '键盘', link: '/views/advance/keyboard' },
-            { text: '日历', link: '/views/advance/calendar' },
+            { text: '键盘标签', link: '/views/advance/keyboard' },
+            { text: '日历标签', link: '/views/advance/calendar' },
             { text: '自定义内容', link: '/views/advance/fill-in' },
           ]
         }
@@ -35,8 +35,8 @@ module.exports = {
       items: [
         {
           text: 'Basic', items: [
-            { text: 'features', link: '/en/views/introduce/features' },
-            { text: 'installation', link: '/en/views/introduce/installation' },
+            { text: 'Features', link: '/en/views/introduce/features' },
+            { text: 'Installation', link: '/en/views/introduce/installation' },
             { text: 'Get Stared', link: '/en/views/introduce/basic-usage' },
             { text: 'Layout', link: '/en/views/introduce/quick-browse' },
           ],

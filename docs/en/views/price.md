@@ -1,4 +1,7 @@
-# Pricing
+---
+title: Pricing
+date: 2020-01-11
+---
 
 Most of the features in the current version of `CodeExpander` are free, and you only need to purchase an activation code to support author updates. New features are now being updated every two weeks.
 

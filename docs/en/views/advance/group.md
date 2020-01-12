@@ -1,4 +1,7 @@
-# Group Setting
+---
+title: Group Setting
+date: 2020-01-11
+---
 
 `Grouping` is a means of managing a large number of snippets, one of which has multiple snippets, and another file that can hold multiple snippets that collectively relate to the same snippet description.
 

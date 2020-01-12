@@ -1,11 +1,9 @@
 ---
-title: Support environment Settings for software running
+title: Installation
 date: 2020-01-11
----
+--- 
 
-# Installation
-
-### Installation
+## Installation
 
 For windows:
 
@@ -23,7 +21,7 @@ Open the system preferences and check `CodeExpander`
 
 Tips: please restart the software after setting, otherwise the normal software cannot be run.
 
-### Compile functional environment support
+## Compile functional environment support
 
 ```text
 $ node -v
