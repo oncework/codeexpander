@@ -1,24 +1,56 @@
 <template>
-  <vue-embed-gist :gist-id="id" :file="filename" />
+  <div>
+    <app-gist-core :gist-div="gistData" />
+  </div>
 </template>
 
 <script>
-import VueEmbedGist from "vue-embed-gist";
+var gistUrl = "https://gist.github.com/";
+var data = {};
+import GistCore from "./GistCore.vue";
 
 export default {
-  name: "Gist",
+  components: {
+    appGistCore: GistCore
+  },
   props: {
     id: {
       type: String,
-      require: true
+      required: true
     },
-    filename: {
+    file: {
       type: String,
-      require: false
+      required: false,
+      default: ""
     }
   },
-  components: {
-    VueEmbedGist
+  data() {
+    return {
+      gistData: "loading..."
+    };
+  },
+  mounted() {
+    this.getGistData(this.id);
+  },
+  methods: {
+    getGistData(gistId) {
+      var self = this;
+      if (this.file.length > 0) {
+        data.file = this.file;
+      }
+      window.$.ajax({
+        url: gistUrl + gistId + ".json",
+        data: data,
+        dataType: "jsonp",
+        timeout: 20000,
+        success: function(response) {
+          self.gistData = response.div;
+        },
+        error: function(response) {
+          console.log("error");
+        }
+      });
+    }
   }
 };
 </script>

@@ -21,11 +21,12 @@ module.exports = {
     algolia: {
       start_urls: [
         {
-          "url": "https://vuepress-theme-reco.recoluan.com/"
+          "url": "https://codeexpander.com/"
         }
       ],
-      apiKey: '97357e58cac743c6de62036cb152f18b',
-      indexName: 'vuepress-theme-reco'
+      appId: 'W58JY27NPI',
+      apiKey: 'c116df54bb9e55b30cd97fc025951c8b',
+      indexName: 'codeexpander'
       // inputSelector: '### REPLACE ME ####',
       // algoliaOptions: { 'facetFilters': ["lang:$LANG"] },
       // debug: false // Set debug to true if you want to inspect the dropdown
@@ -46,11 +47,12 @@ module.exports = {
     algolia: {
       start_urls: [
         {
-          "url": "https://vuepress-theme-reco.recoluan.com/en/"
+          "url": "https://codeexpander.com/en/"
         }
       ],
-      apiKey: '97357e58cac743c6de62036cb152f18b',
-      indexName: 'vuepress-theme-reco'
+      appId: 'W58JY27NPI',
+      apiKey: 'c116df54bb9e55b30cd97fc025951c8b',
+      indexName: 'codeexpander'
       // inputSelector: '### REPLACE ME ####',
       // algoliaOptions: { 'facetFilters': ["lang:$LANG"] },
       // debug: false // Set debug to true if you want to inspect the dropdown

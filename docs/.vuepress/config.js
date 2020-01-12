@@ -12,7 +12,7 @@ module.exports = {
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
     ['link', { rel: 'apple-touch-icon', href: '/icon.png' }],
-    ['link', { rel: 'mask-icon', href: '/icon_vuepress_reco.svg', color: '#42b983' }],
+    ['link', { rel: 'mask-icon', href: '/icon_codeexpander.svg', color: '#42b983' }],
     ['meta', { name: 'msapplication-TileImage', content: '/icon.png' }],
     ['meta', { name: 'msapplication-TileColor', content: '#000000' }]
   ],

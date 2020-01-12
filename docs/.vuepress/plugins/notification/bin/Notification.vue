@@ -9,11 +9,7 @@
         </i>
       </h4>
       <div class="notification-content">
-        <img :src="require('./rvcode.png')" alt="">
-      </div>
-      <div style="padding: 0 16px">
-        <h4>通知</h4>
-        <h5>1.2.0 正式发布，适配系统的暗色模式和亮色模式。</h5>
+        <img :src="require('./weixin-profile.jpg')" alt="">
       </div>
     </div>
   </transition>

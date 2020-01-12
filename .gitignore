@@ -39,3 +39,5 @@ npm-debug.log
 # dotenv environment variables file
 .env
 .package-lock.json
+
+public

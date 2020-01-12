@@ -15,6 +15,7 @@ module.exports = {
   // 项目开始时间
   startYear: '2018',
   algolia: {
+    appId: 'W58JY27NPI',
     apiKey: 'c116df54bb9e55b30cd97fc025951c8b',
     indexName: 'codeexpander'
     // inputSelector: '### REPLACE ME ####',
