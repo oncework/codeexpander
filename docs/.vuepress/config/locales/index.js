@@ -25,7 +25,7 @@ module.exports = {
         }
       ],
       appId: 'W58JY27NPI',
-      apiKey: 'c116df54bb9e55b30cd97fc025951c8b',
+      apiKey: '11031ae1d8dcde21cb04e6fab19a0a73',
       indexName: 'codeexpander'
       // inputSelector: '### REPLACE ME ####',
       // algoliaOptions: { 'facetFilters': ["lang:$LANG"] },
@@ -51,7 +51,7 @@ module.exports = {
         }
       ],
       appId: 'W58JY27NPI',
-      apiKey: 'c116df54bb9e55b30cd97fc025951c8b',
+      apiKey: '11031ae1d8dcde21cb04e6fab19a0a73',
       indexName: 'codeexpander'
       // inputSelector: '### REPLACE ME ####',
       // algoliaOptions: { 'facetFilters': ["lang:$LANG"] },
