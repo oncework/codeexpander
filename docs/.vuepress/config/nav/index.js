@@ -23,7 +23,7 @@ module.exports = {
         }
       ]
     },
-    { text: '方案', link: '/views/price', icon: 'reco-category' },
+    { text: '定价', link: '/views/price', icon: 'reco-category' },
     { text: '常见问题', link: '/views/reference/faq.md', icon: 'reco-faq' },
     // { text: '博客', link: '/categories/blog/', icon: 'reco-blog' },
     // { text: '订阅', link: 'https://codeexpander.com/rss.xml', icon: 'reco-rss' }

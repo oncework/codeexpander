@@ -13,15 +13,11 @@ cd public
 echo 'codeexpander.com' > CNAME
 
 git init
-git add -A
-git commit -m 'deploy'
-
-# 如果发布到 https://<USERNAME>.github.io
-# git push -f git@github.com:oncework/codeexpander.git master
-
-# 如果发布到 https://<USERNAME>.github.io/<REPO>
 git remote add coding https://e.coding.net/xudaolong/codeexpander.git
 git fetch coding
-git push coding gh-pages-source
+git checkout gh-pages-source
+git add -A
+git commit -m 'deploy'
+git push coding gh-pages-source -f
 
 cd -
