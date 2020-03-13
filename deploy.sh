@@ -11,6 +11,7 @@ cd public
 
 # 如果是发布到自定义域名
 echo 'codeexpander.com' > CNAME
+echo 'once.work' >> CNAME
 
 git init
 git remote add coding https://e.coding.net/xudaolong/codeexpander.git
