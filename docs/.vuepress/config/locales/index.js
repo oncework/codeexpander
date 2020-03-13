@@ -24,7 +24,7 @@ module.exports = {
           "url": "https://codeexpander.com/"
         }
       ],
-      appId: 'W58JY27NPI',
+      appId: 'BH4D9OD16A',
       apiKey: '11031ae1d8dcde21cb04e6fab19a0a73',
       indexName: 'codeexpander'
       // inputSelector: '### REPLACE ME ####',
@@ -50,7 +50,7 @@ module.exports = {
           "url": "https://codeexpander.com/en/"
         }
       ],
-      appId: 'W58JY27NPI',
+      appId: 'BH4D9OD16A',
       apiKey: '11031ae1d8dcde21cb04e6fab19a0a73',
       indexName: 'codeexpander'
       // inputSelector: '### REPLACE ME ####',

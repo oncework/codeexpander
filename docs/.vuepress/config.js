@@ -65,10 +65,10 @@ module.exports = {
     '@vuepress-reco/extract-code',
     'flowchart',
     ['sitemap', {
-      hostname: 'https://vuepress-theme-reco.recoluan.com'
+      hostname: 'https://codeexpander.com'
     }],
     ['@vuepress-reco/rss', {
-      site_url: 'https://vuepress-theme-reco.recoluan.com',
+      site_url: 'https://codeexpander.com',
       copyright: ''
     }],
     require('./plugins/notification/index')
