@@ -8,7 +8,7 @@
 export default {
   data () {
     return {
-      name: 'reco_luan'
+      name: 'xudaolong'
     }
   }
 }

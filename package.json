@@ -1,5 +1,6 @@
 {
-  "author": "reco_luan",
+  "author": "xudaolong",
+  "license": "CC-BY-NC-ND-4.0",
   "homepage": "./",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
