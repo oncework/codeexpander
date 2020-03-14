@@ -7,8 +7,8 @@ set -e
 cd public
 
 git init
-git remote add github https://github.com/oncework/codeexpander.git
-git checkout -b master
+# git remote add github https://github.com/oncework/codeexpander.git
+# git checkout -b master
 git add -A
 git commit -m 'deploy'
 git push github master -f
