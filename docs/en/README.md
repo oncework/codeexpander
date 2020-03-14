@@ -15,30 +15,9 @@ actionText: "Getting Started"
 actionLink: /en/views/introduce/basic-usage
 ---
 
-## **Feature**
-
-- Unlimited public/private snippets
-- Unlimited snippets group
-- Markdown features(abbr、deflist、emoji、footnote...)
-- Cloud synchronization, online editing and sharing
-- Instant instruction
-- Dynamic script snippet
-- Custom date, simulated keyboard macros, generated text template
-- Code highlighting, formatting, substitution...
-- Generate custom theme snippet images(png/svg)
-- Search snippet
-- Proxy
-- Cross-platform
-- Hot update
-  ...
-
-## **Document**
-
-[Getting Started](https://once.work/introduce/basic-usage)
-
 ## **Download**
 
-MacOS 10.14/10.13/10.12/10.11 \(Mojave, High Sierra, Sierra...\) **Or** Windows 7/8/10
+Not only `Mac OS` but also` Windows OS`
 
 [Click to Download](https://github.com/oncework/codeexpander/releases)
 
@@ -51,33 +30,49 @@ Most features are free and buy now for \$4.99 if you want to support the author
 
 Please contact me if you have any questions
 
-![](./img/weixin-profile.jpg)
+![](../../assets/weixin-profile.jpg)
 
-## Common use cases
+## Features
 
-Quick Create
+### Smarter typing
 
-![](./img/gene-snippet.gif)
+Avoid typing the same sentence repeatedly, refusing to paste and copy starts with me. [How to create>>](/en/views/advance/text-and-script.html)
 
-Dynamic script generation
+> How it works: Detect keywords you enter (pre-set instructions) and replace them as you type.
 
-![](./img/gene-md.gif)
+![](../../assets/custom-snippet.gif)
 
-Reply Mail
+### Custom scripts
 
-![](./img/fill-in.gif)
+Quickly run the script to get the processed results, and you can achieve any function you want.[How to create>>](/en/views/advance/text-and-script.html)
 
-Custom code snippet
+![](../../assets/gene-md.gif)
 
-![](./img/custom-snippet.gif)
+### Create template
 
-Search snippets
+Support custom date, simulate keyboard macro, generate rich text template.[How to create>>](/en/views/advance/fill-in.html)
 
-![](./img/search-bar.gif)
+![](../../assets/fill-in.gif)
 
-Create and share beautiful Snippets
+### Create snippets
 
-![](./img/gene-pic.gif)
+Quickly save existing code snippets and sync to another computer.
+
+![](../../assets/gene-snippet.gif)
+
+### Generate code picture
+
+Easier to share your own style clips to others.
+
+![](../../assets/gene-pic.gif)
+
+### Search bar
+
+No memory required, fuzzy full text search results.[How to use>>](/en/views/introduce/quick-browse.html)
+
+![](../../assets/search-bar.gif)
+
+All clips can be synchronized to the clip management of `Localization`,` Github`, `Code Cloud` platform, with unlimited public / private clips, grouping, cloud synchronization, online editing, and sharing with others.
 
 ## **Support**
 

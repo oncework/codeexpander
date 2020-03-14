@@ -3,25 +3,13 @@ title: 安装
 date: 2020-01-11
 ---
 
-## 平台配置
+## 环境配置
 
-对于 windows 用户:
+### Windows OS
 
-> 您只需配置相关的Python环境变量即可完成安装。
+您可按自己的需求配置相关的脚本运行环境即可。
 
-对于 mac 用户:
-
-首次启动软件时，软件将提示如下:
-
-![](./img/installation-tips.png)
-
-打开系统首选项并选中 `CodeExpander`
-
-![](./img/installation-lock.png)
-
-提示：请在设置后重启软件，否则无法正常运行软件。
-
-## 编译功能
+> 如你需要运行 Python、JavaScript、NodeJs 脚本等。
 
 ```text
 $ node -v
@@ -31,3 +19,16 @@ $ python -v
 
 如果缺少其中一些命令，请自行下载并安装。
 
+### Mac OS
+
+首次启动软件时，软件将提示如下:
+
+![](../../../assets/installation-tips.png)
+
+打开系统首选项并选中 `CodeExpander`
+
+![](../../../assets/installation-lock.png)
+
+提示：请在设置后重启软件，否则无法正常运行软件。
+
+关于脚本运行环境同上配置

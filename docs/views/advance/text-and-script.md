@@ -12,11 +12,12 @@ date: 2020-01-11
 - 在代码段格式下拉菜单中，选择`Text`作为格式类型。
 - 在代码段字段中，您可以输入:
   - Plain Text
-  - [KeyBoard Component](keyboard-component.md)
-  - [Calendar Component](calendar-component.md)
-  - [Fill-In Component](fill-in.md)
+  - [Rich Text（富文本）](/views/advance/rich-text.html)
+  - [KeyBoard（键盘）](/views/advance/keyboard.html)
+  - [Calendar（日历）](/views/advance/calendar.html)
+  - [Fill-In（自定义模板）](/views/advance/fill-in.html)
 
-![](./img/text-script-ui.png)
+![](../../../assets/text-script-ui.png)
 
 ## Script Snippets
 
@@ -26,7 +27,7 @@ date: 2020-01-11
 
 > 其内置功能: 剪贴板属性 `CODEEXPANDER_CLIPBOARD`
 
-![示例：将剪贴板内容全部大写](./img/text-script-script.png)
+![示例：将剪贴板内容全部大写](../../../assets/text-script-script.png)
 
 ### Javascript
 
@@ -39,7 +40,7 @@ date: 2020-01-11
   console.log("Hello world");
   ```
 
-![](./img/text-script-js.png)
+![](../../../assets/text-script-js.png)
 
 > `CodeExpander`捕获`console`的输出并将其返回，因为它是输出结果的重要组件，否则无法返回任何结果。
 

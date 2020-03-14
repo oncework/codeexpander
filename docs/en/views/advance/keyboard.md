@@ -7,14 +7,14 @@ date: 2020-01-11
 
 The keyboard will simulate a keyboard operation, and each simulated key will be followed by the next simulated key.
 
-![](./img/keyboard.gif)
+![](../../../../assets/keyboard.gif)
 
 - `Enter、Esc、Tab`
 - `Composite Keyboard`
 
-![Operating options](./img/keyboard-ui.png)
+![Operating options](../../../../assets/keyboard-ui.png)
 
-![Operating custom](./img/keyboard-ui-setting.png)
+![Operating custom](../../../../assets/keyboard-ui-setting.png)
 
 ## Composite Keyboard
 

@@ -9,6 +9,8 @@ module.exports = {
     ['meta', { name: 'viewport', content: 'width=device-width,initial-scale=1,user-scalable=no' }],
     ['link', { rel: 'manifest', href: '/manifest.json' }],
     ['meta', { name: 'theme-color', content: '#42b983' }],
+    ['meta', { name: 'keywords', content: 'github,gitee,码云,Textexpander,codeexpander,代码管理,效率工具'}],
+    ['meta', { name: 'author', content: 'xudaolong@gmail.com'}],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
     ['link', { rel: 'apple-touch-icon', href: '/icon.png' }],
@@ -22,7 +24,7 @@ module.exports = {
     '/': {
       lang: 'zh-CN', // 将会被设置为 <html> 的 lang 属性
       title: "CodeExpander",
-      description: '专为开发者开发的一个集输入增强、代码片段管理为一体跨平台云同步的开发工具。'
+      description: '专为开发者开发的一个集输入增强、代码片段管理为一体跨平台云同步（Github/码云）的效率开发工具。'
     },
     '/en/': {
       lang: 'en-US',

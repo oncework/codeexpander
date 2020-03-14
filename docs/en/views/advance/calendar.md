@@ -7,12 +7,12 @@ date: 2020-01-11
 
 Fast insert date anywhere. Add a future expiration date to your mail, a current date to your file name, all using a calendar.
 
-![](./img/date.gif)
+![](../../../../assets/date.gif)
 
 - `Short、Medium、Long、Full`
 - `Custom Date Format`
 
-![](./img/date-ui.png)
+![](../../../../assets/date-ui.png)
 
 ### Basic **Localized formats**
 
@@ -33,7 +33,7 @@ Fast insert date anywhere. Add a future expiration date to your mail, a current 
 
 You can choose or customize the date format to support international standards.
 
-![](./img/date-i18n.png)
+![](../../../../assets/date-i18n.png)
 
 <Gist id="f1eb82cf68a9dc54acc5a0e49b76cea9"></Gist>
 

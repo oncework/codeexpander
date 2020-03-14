@@ -7,5 +7,7 @@ date: 2020-01-11
 
 ## 永久版本
 
-- [Paddle](https://pay.paddle.com/checkout/540339)
 - [爱发卡](https://w.url.cn/s/AHRprNl)
+- [Paddle](https://pay.paddle.com/checkout/540339)
+
+> 一次购买，永久免费更新与升级版本

@@ -16,23 +16,23 @@ Follow these steps to learn how to use the software
 
 ## Install
 
-You can refer to this module for installation
+You can refer to this [page](/en/views/introduce/installation.html) for installation
 
 ## Login the `github` account
 
-![](./img/usage-login.png)
+![](../../../../assets/usage-login.png)
 
 ## Create a new group
 
-You can use [shortcut](../support/reference/shortcut.md) `⌘ + T` and open the create-group-modal or touch the plus button as follow.
+You can use [shortcut](/en/views/reference/shortcut) `⌘ + T` and open the create-group-modal or touch the plus button as follow.
 
-![](./img/usage-group.png)
+![](../../../../assets/usage-group.png)
 
 ## Create a new snippet
 
-You can use [shortcut](../support/reference/shortcut.md) `Alt + ]` and open the Create-Snippet-window or touch the plus button as follow.
+You can use [shortcut](/en/views/reference/shortcut) `Alt + ]` and open the Create-Snippet-window or touch the plus button as follow.
 
-![](./img/usage-snippet.png)
+![](../../../../assets/usage-snippet.png)
 
 ## Select the snippet type that you want
 
@@ -44,10 +44,10 @@ You can use [shortcut](../support/reference/shortcut.md) `Alt + ]` and open the 
 
 `Yes`.Just click the **Link** icon and jump to the `gist website`.
 
-![](./img/usage-edit-online.png)
+![](../../../../assets/usage-edit-online.png)
 
 ### Can I configure the preferences of the software？
 
 `Yes`. You can set the `hotkeys` or more and more.
 
-![](./img/usage-settings.png)
+![](../../../../assets/usage-settings.png)

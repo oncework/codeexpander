@@ -1,5 +1,5 @@
 ---
-title: 自定义内容
+title: 自定义模板
 date: 2020-01-11
 ---
 
@@ -7,27 +7,27 @@ date: 2020-01-11
 
 简化您的电子邮件。获取示例电子邮件回复或销售查询，并自定义您需要的区域。如您有多个工作，使用您的电子邮件签名，并链接到当前的社交媒体！
 
-![](./img/fill-in.gif)
+![](../../../assets/fill-in-light.gif)
 
 - Sing-line Field
 
-![](./img/fill-in-sing-line.png)
+![](../../../assets/fill-in-sing-line.png)
 
 - Multi-line Field
 
-![](./img/fill-in-multi-line.png)
+![](../../../assets/fill-in-multi-line.png)
 
 - Optional Section
 
-![](./img/fill-in-option.png)
+![](../../../assets/fill-in-option.png)
 
 - Popup Menu
 
-![](./img/fill-in-menu.png)
+![](../../../assets/fill-in-menu.png)
 
-## 测试用例
+## 例子
 
-![](./img/fill-in-test.png)
+![](../../../assets/fill-in-test.png)
 
 - 在代码段格式下拉菜单中，选择`文本`作为格式类型。
 - 在代码段字段中，您可以输入：

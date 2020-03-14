@@ -3,35 +3,43 @@ title: 界面
 date: 2020-01-11
 ---
 
-##  登录
+##  登录入口
 
-该软件基于`Github`帐户，只能在注册后使用。没有用户信息存储在后台。
+Codeexpander 支持本地、Github、码云管理片段。
 
-![](./img/layout-login-sign-in.png)
+![登录入口](../../../assets/usage-login-zh.png)
+
+![登录Github](../../../assets/usage-login-github.png)
+
+![登录码云](../../../assets/usage-login-gitee.png)
 
 ## 主面板
 
-![](./img/features-intro.png)
+![](../../../assets/features-intro.png)
 
-## 片段编辑
+## 片段编辑器
 
-![](./img/features-editing.png)
+![](../../../assets/features-editing.png)
+
+## 富文本编辑器
+
+![](../../../assets/features-editing-rich.png)
 
 ## 搜索工具栏
 
 快捷键为 \[ **Alt + Space \]**
 
-![](./img/layout-search-bar.png)
+![](../../../assets/layout-search-bar.png)
 
-## 创建片段
+## 迅速创建片段
 
 快捷键为 &lt; **Alt** + \] &gt;
 
-![](./img/layout-create-snippet.png)
+![](../../../assets/layout-create-snippet.png)
 
 ## 首选项
 
 支持自定义各种配置.
 
-![](./img/layout-preferences.png)
+![](../../../assets/layout-preferences.png)
 

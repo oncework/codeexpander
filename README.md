@@ -2,7 +2,7 @@
 
 `CodeExpander` is a smart feature with TextExpander and embraces the GitHub Gist client. It saves and manages text or script snippets that require repeated input and can be expanded automatically by setting abbreviations.
 
-![](./img/map-main.png)
+![](./assets/map-main.png)
 
 ## **Feature**
 
@@ -23,7 +23,7 @@
 
 ## **Document**
 
-[Getting Started](https://once.work/introduce/basic-usage)
+[Getting Started](https://codeexpander.com/en/views/introduce/basic-usage.html)
 
 ## **Download**
 
@@ -40,33 +40,33 @@ Most features are free and buy now for \$4.99 if you want to support the author
 
 Please contact me if you have any questions
 
-![](./img/weixin-profile.jpg)
+![](./assets/weixin-profile.jpg)
 
 ## Common use cases
 
 Quick Create
 
-![](./img/gene-snippet.gif)
+![](./assets/gene-snippet.gif)
 
 Dynamic script generation
 
-![](./img/gene-md.gif)
+![](./assets/gene-md.gif)
 
 Reply Mail
 
-![](./img/fill-in.gif)
+![](./assets/fill-in.gif)
 
 Custom code snippet
 
-![](./img/custom-snippet.gif)
+![](./assets/custom-snippet.gif)
 
 Search snippets
 
-![](./img/search-bar.gif)
+![](./assets/search-bar.gif)
 
 Create and share beautiful Snippets
 
-![](./img/gene-pic.gif)
+![](./assets/gene-pic.gif)
 
 ## **Support**
 

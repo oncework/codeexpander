@@ -10,11 +10,11 @@ As the name implies, `plain text` snippet insert unformatted text. In most cases
 - In the snippet format drop-down menu, choose `Text` as the format type.
 - In the snippet field, you may enter:
   - Plain Text
-  - [KeyBoard Component](keyboard.md)
-  - [Calendar Component](calendar.md)
-  - [Fill-In Component](fill-in.md)
+  - [KeyBoard](/en/views/advance/keyboard.html)
+  - [Calendar](/en/views/advance/calendar.html)
+  - [Fill-In](/en/views/advance/fill-in.html)
 
-![](./img/text-script-ui.png)
+![](../../../../assets/text-script-ui.png)
 
 ## Script Snippets
 
@@ -24,7 +24,7 @@ It has great flexibility to meet most `dynamic requirements`. However, the build
 
 > Its built-in function: clipboard properties `CODEEXPANDER_CLIPBOARD`
 
-![Example: All uppercase clipboard contents](./img/text-script-script.png)
+![Example: All uppercase clipboard contents](../../../../assets/text-script-script.png)
 
 ## Javascript
 
@@ -37,7 +37,7 @@ For simple example:
   console.log("Hello world");
   ```
 
-![](./img/text-script-js.png)
+![](../../../../assets/text-script-js.png)
 
 > `CodeExpander` captures the output of the `console` and returns it to the consumer, because it is an essential element of the entire javascript, otherwise it gets nothing.
 

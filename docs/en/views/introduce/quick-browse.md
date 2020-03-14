@@ -5,13 +5,17 @@ date: 2020-01-11
 
 ## Login
 
-This software is based on the `Github` account, which can only be used after registration. No user information is stored in the background.
+Codeexpander supports `Local`, `Github`, and `Gitee` management snippets.
 
-![](./img/layout-login-sign-in.png)
+![](../../../../assets/usage-login-zh.png)
+
+![](../../../../assets/usage-login-github.png)
+
+![](../../../../assets/usage-login-gitee.png)
 
 ## Main
 
-![](./img/features-intro.png)
+![](../../../../assets/features-intro.png)
 
 ## Snippet
 
@@ -31,22 +35,22 @@ This software is based on the `Github` account, which can only be used after reg
 - Snippet editor
 - Snippet setting
 
-![](./img/features-editing.png)
+![](../../../../assets/features-editing.png)
 
 ## Search Bar
 
 The default shortCut is \[ **Alt + Space \]**
 
-![](./img/layout-search-bar.png)
+![](../../../../assets/layout-search-bar.png)
 
 ## Create Snippet
 
 The default shortcut is &lt; **Alt** + \] &gt;
 
-![](./img/layout-create-snippet.png)
+![](../../../../assets/layout-create-snippet.png)
 
 ## Preferences
 
 This view support to config the basic features and hotkeys.
 
-![](./img/layout-preferences.png)
+![](../../../../assets/layout-preferences.png)
