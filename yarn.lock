@@ -5094,6 +5094,11 @@ lowercase-keys@^2.0.0:
   resolved "https://registry.yarnpkg.com/lowercase-keys/-/lowercase-keys-2.0.0.tgz#2603e78b7b4b0006cbca2fbcc8a3202558ac9479"
   integrity sha512-tqNXrS78oMOE73NMxK4EMLQsQowWf8jKooH9g7xPavRT706R6bkQJ6DY2Te7QukaZsulxa30wQ7bk0pm4XiHmA==
 
+lozad@^1.9.0:
+  version "1.14.0"
+  resolved "https://registry.yarnpkg.com/lozad/-/lozad-1.14.0.tgz#91d51d57e53187e95c5b7f4029d7a28a0e940e10"
+  integrity sha512-uMGxpXBW15JDGVly3p121Y4jlb/OwmXpnMQR5vnb4GxMeK45NGcmlMrRr47fmLxtSdnGRFm0YdJaVXuudPKDaA==
+
 lru-cache@^4.1.2:
   version "4.1.5"
   resolved "https://registry.yarnpkg.com/lru-cache/-/lru-cache-4.1.5.tgz#8bbe50ea85bed59bc9e33dcab8235ee9bcf443cd"
@@ -5169,6 +5174,16 @@ markdown-it-emoji@^1.4.0:
   version "1.4.0"
   resolved "https://registry.yarnpkg.com/markdown-it-emoji/-/markdown-it-emoji-1.4.0.tgz#9bee0e9a990a963ba96df6980c4fddb05dfb4dcc"
   integrity sha1-m+4OmpkKljupbfaYDE/dsF37Tcw=
+
+markdown-it-img-lazy@^1.0.0:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/markdown-it-img-lazy/-/markdown-it-img-lazy-1.0.1.tgz#b9ec7f1da6566f498eb723d5cec3f7a4514b9337"
+  integrity sha512-qxQr1LJjwTS8GGQWEKsbgjTQYulKPZtxIyoVK4fjJh6eZcLKz8vcT1hkz/f68Yr4KI5jmw7+ViGK+nLnUEqxeg==
+
+markdown-it-imsize@^2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/markdown-it-imsize/-/markdown-it-imsize-2.0.1.tgz#cca0427905d05338a247cb9ca9d968c5cddd5170"
+  integrity sha1-zKBCeQXQUziiR8ucqdloxc3dUXA=
 
 markdown-it-table-of-contents@^0.4.0:
   version "0.4.4"
@@ -8167,6 +8182,15 @@ vuepress-plugin-flowchart@1.4.3:
   integrity sha512-Vyhh2xiCvMoubwBBDdre5u2tekp3B0N9vGDxAbgHUJH5L6V1venq1pWsbhKi9Wmr2Pa/yOTq3se1ji2w/kDr+A==
   dependencies:
     flowchart.js "^1.11.3"
+
+vuepress-plugin-img-lazy@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/vuepress-plugin-img-lazy/-/vuepress-plugin-img-lazy-1.0.2.tgz#d7fb62b1ece8cee90448afbeda77f8b90ebf9a25"
+  integrity sha512-5CweZJdD+oqfsq7Wx41vAgdYnnY6037o5mfqqtcoLDOvleW6405aMVArGwGU/aMwB5Lvz4xmYzHipYmsdjFxKw==
+  dependencies:
+    lozad "^1.9.0"
+    markdown-it-img-lazy "^1.0.0"
+    markdown-it-imsize "^2.0.1"
 
 vuepress-plugin-sitemap@2.3.0:
   version "2.3.0"

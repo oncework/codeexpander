@@ -3,16 +3,16 @@
     <swiper :options="swiperOption" ref="mySwiper" class="img-shadow">
       <!-- slides -->
       <swiper-slide>
-        <img class="banner img-shadow" src="./images/map-main-01.png" alt="" />
+        <img class="banner swiper-lazy" data-src="/assets/map-main-01.png" alt="" />
       </swiper-slide>
       <swiper-slide>
-        <img class="banner img-shadow" src="./images/map-main-02.png" alt="" />
+        <img class="banner swiper-lazy" data-src="/assets/map-main-02.png" alt="" />
       </swiper-slide>
       <swiper-slide>
-        <img class="banner img-shadow" src="./images/map-main-03.png" alt="" />
+        <img class="banner swiper-lazy" data-src="/assets/map-main-03.png" alt="" />
       </swiper-slide>
       <swiper-slide>
-        <img class="banner img-shadow" src="./images/map-main-04.png" alt="" />
+        <img class="banner swiper-lazy" data-src="/assets/map-main-04.png" alt="" />
       </swiper-slide>
       <!-- Optional controls -->
       <div
@@ -42,6 +42,7 @@ export default {
   data() {
     return {
       swiperOption: {
+        lazy: true,
         spaceBetween: 30,
         centeredSlides: true,
         pagination: {

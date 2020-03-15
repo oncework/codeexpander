@@ -73,6 +73,7 @@ module.exports = {
       site_url: 'https://codeexpander.com',
       copyright: ''
     }],
-    require('./plugins/notification/index')
+    require('./plugins/notification/index'),
+    'img-lazy',
   ]
 }  
