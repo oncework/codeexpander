@@ -57,7 +57,7 @@ actionLink: /views/introduce/basic-usage
 
 快速保存已有的代码片段，即可同步另一台电脑。
 
-![](../assets/gene-snippet.gif =705x669)
+![](../assets/gene-snippet.gif)
 
 ### 生成代码图片
 

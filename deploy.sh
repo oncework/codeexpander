@@ -19,5 +19,8 @@ git checkout -b gh-pages-source
 git add -A
 git commit -m 'deploy'
 git push coding gh-pages-source -f
+git remote add github https://github.com/oncework/codeexpander.git
+git checkout -b master
+git push github master -f
 
 cd -
