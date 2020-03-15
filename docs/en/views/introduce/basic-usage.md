@@ -36,6 +36,8 @@ You can use [shortcut](/en/views/reference/shortcut) `Alt + ]` and open the Crea
 
 ## Select the snippet type that you want
 
+You can click this [Advanced Features](/en/views/advance/text-and-script.html) to experience more rich content.
+
 #### Done.
 
 ## FAQ

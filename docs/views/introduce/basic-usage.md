@@ -51,7 +51,7 @@ date: 2020-01-11
 
 > 如何创建代码模板，开会？日报？提测？分分钟搞掂。
 
-您可点击这个[进阶功能](/views/introduce/installation.html)来体验更丰富的内容。
+您可点击这个[进阶功能](/views/advance/text-and-script.html)来体验更丰富的内容。
 
 ## 常问问题
 
