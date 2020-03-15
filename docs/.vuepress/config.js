@@ -24,7 +24,7 @@ module.exports = {
     '/': {
       lang: 'zh-CN', // 将会被设置为 <html> 的 lang 属性
       title: "CodeExpander",
-      description: '专为开发者开发的一个集输入增强、代码片段管理为一体跨平台云同步（Github/码云）的效率开发工具。'
+      description: '专为开发者开发的一个集输入增强、代码片段管理为一体跨平台云同步（Github/码云）的开发效率工具。'
     },
     '/en/': {
       lang: 'en-US',

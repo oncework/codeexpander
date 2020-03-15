@@ -25,7 +25,6 @@
       <router-link class="btn-about" :to="$frontmatter.actionLink">{{
         $frontmatter.actionText
       }}</router-link>
-      <img class="banner img-shadow" src="./images/map-main-01.png" alt="" />
     </section>
     <section class="md-content-wrapper">
       <Content />
@@ -34,38 +33,12 @@
 </template>
 
 <script>
-// import "swiper/dist/css/swiper.css";
-// import { swiper, swiperSlide } from "vue-awesome-swiper";
-
 export default {
-  components: {
-    // swiper,
-    // swiperSlide
-  },
+  components: {},
   computed: {
     features() {
       return this.$frontmatter.features;
     }
-  },
-  data() {
-    return {
-      swiperOption: {
-        spaceBetween: 30,
-        centeredSlides: true,
-        pagination: {
-          el: ".swiper-pagination",
-          clickable: true
-        },
-        autoplay: {
-          delay: 3000,
-          disableOnInteraction: true
-        },
-        navigation: {
-          nextEl: ".swiper-button-next",
-          prevEl: ".swiper-button-prev"
-        }
-      }
-    };
   }
 };
 </script>
@@ -79,7 +52,7 @@ export default {
   section
     &.description
       box-sizing border-box
-      margin 0 auto 3rem
+      margin 0 auto 1rem
       max-width 58rem
       width 100%
       text-align center

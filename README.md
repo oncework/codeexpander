@@ -1,29 +1,18 @@
 # CodeExpander
 
-`CodeExpander` is a smart feature with TextExpander and embraces the GitHub Gist client. It saves and manages text or script snippets that require repeated input and can be expanded automatically by setting abbreviations.
+`CodeExpander` is a cross-platform cloud synchronization development tool for developers that includes input enhancement(`Text expander`), `code snippet management`. It saves and manages text or script snippets that require repeated input and can be expanded automatically by setting abbreviations.
 
-![](./assets/map-main.png)
+All snippets can be synchronized to the clip management of `Localization`,` Github`, `码云` platform, with unlimited public / private clips, grouping, cloud synchronization, online editing, and sharing with others.
 
-## **Feature**
+![](./assets/map-main-01.png)
 
-- Unlimited public/private snippets
-- Unlimited snippets group
-- Markdown features(abbr、deflist、emoji、footnote...)
-- Cloud synchronization, online editing and sharing
-- Instant instruction
-- Dynamic script snippet
-- Custom date, simulated keyboard macros, generated text template
-- Code highlighting, formatting, substitution...
-- Generate custom theme snippet images(png/svg)
-- Search snippet
-- Proxy
-- Cross-platform
-- Hot update
-  ...
+![](./assets/map-main-03.png)
+
+![](./assets/map-main-02.png)
 
 ## **Document**
 
-[Getting Started](https://codeexpander.com/en/views/introduce/basic-usage.html)
+[Getting Started](https://codeexpander.comhttps://codeexpander.com/en/views/introduce/basic-usage.html)
 
 ## **Download**
 
@@ -42,32 +31,47 @@ Please contact me if you have any questions
 
 ![](./assets/weixin-profile.jpg)
 
-## Common use cases
+## Features
 
-Quick Create
+### Smarter typing
 
-![](./assets/gene-snippet.gif)
+Avoid typing the same sentence repeatedly, refusing to paste and copy starts with me. [How to create>>](https://codeexpander.com/en/views/advance/text-and-script.html)
 
-Dynamic script generation
-
-![](./assets/gene-md.gif)
-
-Reply Mail
-
-![](./assets/fill-in.gif)
-
-Custom code snippet
+> How it works: Detect keywords you enter (pre-set instructions) and replace them as you type.
 
 ![](./assets/custom-snippet.gif)
 
-Search snippets
+### Custom scripts
 
-![](./assets/search-bar.gif)
+Quickly run the script to get the processed results, and you can achieve any function you want.[How to create>>](https://codeexpander.com/en/views/advance/text-and-script.html)
 
-Create and share beautiful Snippets
+![](./assets/gene-md.gif)
+
+### Create template
+
+Support custom date, simulate keyboard macro, generate rich text template.[How to create>>](https://codeexpander.com/en/views/advance/fill-in.html)
+
+![](./assets/fill-in.gif)
+
+### Create snippets
+
+Quickly save existing code snippets and sync to another computer.
+
+![](./assets/gene-snippet.gif)
+
+### Generate code picture
+
+Easier to share your own style clips to others.
 
 ![](./assets/gene-pic.gif)
 
+### Search bar
+
+No memory required, fuzzy full text search results.[How to use>>](https://codeexpander.com/en/views/introduce/quick-browse.html)
+
+![](./assets/search-bar.gif)
+
+All clips can be synchronized to the clip management of `Localization`,` Github`, `Code Cloud` platform, with unlimited public / private clips, grouping, cloud synchronization, online editing, and sharing with others.
 ## **Support**
 
 [Product hunt support](https://www.producthunt.com/posts/oncework?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-oncework)

@@ -15,6 +15,10 @@ actionText: "开始使用"
 actionLink: /views/introduce/basic-usage
 ---
 
+<ClientOnly>
+  <Swiper></Swiper>
+</ClientOnly>
+
 ## 下载
 
 不仅支持 `Mac OS` 也支持 `Windows OS`

@@ -21,7 +21,8 @@ module.exports = {
           'text-and-script',
           'keyboard',
           'calendar',
-          'fill-in'
+          'fill-in',
+          'rich-text'
         ]
       }
     ]
@@ -48,7 +49,8 @@ module.exports = {
           'text-and-script',
           'keyboard',
           'calendar',
-          'fill-in'
+          'fill-in',
+          'rich-text'
         ]
       }
     ]

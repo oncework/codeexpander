@@ -15,6 +15,10 @@ actionText: "Getting Started"
 actionLink: /en/views/introduce/basic-usage
 ---
 
+<ClientOnly>
+  <Swiper></Swiper>
+</ClientOnly>
+
 ## **Download**
 
 Not only `Mac OS` but also` Windows OS`
