@@ -1,5 +1,5 @@
 ---
-title: Lists commonly used shortcuts in software
+title: Shortcuts
 date: 2020-01-11
 ---
 

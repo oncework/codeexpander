@@ -25,6 +25,17 @@ module.exports = {
           'rich-text'
         ]
       }
+    ],
+    '/views/reference/': [
+      {
+        title: 'Reference',
+        collapsable: false,
+        children: [
+          'faq',
+          'shortcut',
+          'privacy-policy'
+        ]
+      }
     ]
   }),
   'en': Object.assign({}, {
@@ -51,6 +62,17 @@ module.exports = {
           'calendar',
           'fill-in',
           'rich-text'
+        ]
+      }
+    ],
+    '/en/views/reference/': [
+      {
+        title: 'Reference',
+        collapsable: false,
+        children: [
+          'faq',
+          'shortcut',
+          'privacy-policy'
         ]
       }
     ]

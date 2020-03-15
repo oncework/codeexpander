@@ -29,6 +29,7 @@ module.exports = {
       items: [
         { text: 'FAQ', link: '/views/reference/faq' },
         { text: '快捷键', link: '/views/reference/shortcut' },
+        { text: '隐私政策', link: '/views/reference/privacy-policy' }
       ]
     },
     // { text: '博客', link: '/categories/blog/', icon: 'reco-blog' },
@@ -64,6 +65,7 @@ module.exports = {
       items: [
         { text: 'FAQ', link: '/en/views/reference/faq' },
         { text: 'Shortcut', link: '/en/views/reference/shortcut' },
+        { text: 'Privacy Policy', link: '/en/views/reference/privacy-policy' }
       ]
     },
     // { text: 'Blog', link: '/en/categories/blog/', icon: 'reco-blog' },
