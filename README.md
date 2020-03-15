@@ -12,7 +12,7 @@ All snippets can be synchronized to the clip management of `Localization`,` Gith
 
 ## **Document**
 
-[Getting Started](https://codeexpander.comhttps://codeexpander.com/en/views/introduce/basic-usage.html)
+[Getting Started](https://codeexpander.com/en/views/introduce/basic-usage.html)
 
 ## **Download**
 
