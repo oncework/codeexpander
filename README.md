@@ -4,11 +4,11 @@
 
 All snippets can be synchronized to the clip management of `Localization`,` Github`, `码云` platform, with unlimited public / private clips, grouping, cloud synchronization, online editing, and sharing with others.
 
-![](./assets/map-main-01.png)
+![](./uploaded/map-main-01.png)
 
-![](./assets/map-main-03.png)
+![](./uploaded/map-main-03.png)
 
-![](./assets/map-main-02.png)
+![](./uploaded/map-main-02.png)
 
 ## **Document**
 
@@ -29,7 +29,7 @@ Most features are free and buy now for \$4.99 if you want to support the author
 
 Please contact me if you have any questions
 
-![](./assets/weixin-profile.jpg)
+![](./uploaded/weixin-profile.jpg)
 
 ## Features
 
@@ -39,37 +39,37 @@ Avoid typing the same sentence repeatedly, refusing to paste and copy starts wit
 
 > How it works: Detect keywords you enter (pre-set instructions) and replace them as you type.
 
-![](./assets/custom-snippet.gif)
+![](./uploaded/custom-snippet.gif)
 
 ### Custom scripts
 
 Quickly run the script to get the processed results, and you can achieve any function you want.[How to create>>](https://codeexpander.com/en/views/advance/text-and-script.html)
 
-![](./assets/gene-md.gif)
+![](./uploaded/gene-md.gif)
 
 ### Create template
 
 Support custom date, simulate keyboard macro, generate rich text template.[How to create>>](https://codeexpander.com/en/views/advance/fill-in.html)
 
-![](./assets/fill-in.gif)
+![](./uploaded/fill-in.gif)
 
 ### Create snippets
 
 Quickly save existing code snippets and sync to another computer.
 
-![](./assets/gene-snippet.gif)
+![](./uploaded/gene-snippet.gif)
 
 ### Generate code picture
 
 Easier to share your own style clips to others.
 
-![](./assets/gene-pic.gif)
+![](./uploaded/gene-pic.gif)
 
 ### Search bar
 
 No memory required, fuzzy full text search results.[How to use>>](https://codeexpander.com/en/views/introduce/quick-browse.html)
 
-![](./assets/search-bar.gif)
+![](./uploaded/search-bar.gif)
 
 All clips can be synchronized to the clip management of `Localization`,` Github`, `Code Cloud` platform, with unlimited public / private clips, grouping, cloud synchronization, online editing, and sharing with others.
 ## **Support**
