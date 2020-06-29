@@ -23,11 +23,11 @@ $ python -v
 
 首次启动软件时，软件将提示如下:
 
-![](../../../assets/installation-tips.png)
+![](https://s1.ax1x.com/2020/06/15/N9uHM9.png)
 
 打开系统首选项并选中 `CodeExpander`
 
-![](../../../assets/installation-lock.png)
+![](https://s1.ax1x.com/2020/06/15/N9uTxJ.png)
 
 提示：请在设置后重启软件，否则无法正常运行软件。
 

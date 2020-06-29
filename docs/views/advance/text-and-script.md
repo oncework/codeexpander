@@ -17,7 +17,7 @@ date: 2020-01-11
   - [Calendar（日历）](/views/advance/calendar.html)
   - [Fill-In（自定义模板）](/views/advance/fill-in.html)
 
-![](../../../assets/text-script-ui.png)
+![](https://s1.ax1x.com/2020/06/29/NWdggA.png)
 
 ## Script Snippets
 
@@ -27,7 +27,7 @@ date: 2020-01-11
 
 > 其内置功能: 剪贴板属性 `CODEEXPANDER_CLIPBOARD`
 
-![示例：将剪贴板内容全部大写](../../../assets/text-script-script.png)
+![示例：将剪贴板内容全部大写](https://s1.ax1x.com/2020/06/29/NWdc3d.png)
 
 ### Javascript
 
@@ -40,7 +40,7 @@ date: 2020-01-11
   console.log("Hello world");
   ```
 
-![](../../../assets/text-script-js.png)
+![](https://s1.ax1x.com/2020/06/29/NWds4e.png)
 
 > `CodeExpander`捕获`console`的输出并将其返回，因为它是输出结果的重要组件，否则无法返回任何结果。
 

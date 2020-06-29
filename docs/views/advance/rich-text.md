@@ -13,4 +13,4 @@ date: 2020-01-11
   - [Calendar（日历）](/views/advance/calendar.html)
   - [Fill-In（自定义模板）](/views/advance/fill-in.html)
 
-![](../../../assets/rich-text-ui.png)
+![](https://s1.ax1x.com/2020/06/29/NWd69H.png)

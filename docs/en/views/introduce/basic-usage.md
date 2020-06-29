@@ -20,19 +20,19 @@ You can refer to this [page](/en/views/introduce/installation.html) for installa
 
 ## Login the `github` account
 
-![](../../../../assets/usage-login.png)
+![](https://s1.ax1x.com/2020/06/29/NWdIUS.png)
 
 ## Create a new group
 
 You can use [shortcut](/en/views/reference/shortcut) `⌘ + T` and open the create-group-modal or touch the plus button as follow.
 
-![](../../../../assets/usage-group.png)
+![](https://s1.ax1x.com/2020/06/29/NWdWut.png)
 
 ## Create a new snippet
 
 You can use [shortcut](/en/views/reference/shortcut) `Alt + ]` and open the Create-Snippet-window or touch the plus button as follow.
 
-![](../../../../assets/usage-snippet.png)
+![](https://s1.ax1x.com/2020/06/29/NWdbgs.png)
 
 ## Select the snippet type that you want
 
@@ -46,10 +46,10 @@ You can click this [Advanced Features](/en/views/advance/text-and-script.html) t
 
 `Yes`.Just click the **Link** icon and jump to the `gist website`.
 
-![](../../../../assets/usage-edit-online.png)
+![](https://s1.ax1x.com/2020/06/29/NWd2jI.png)
 
 ### Can I configure the preferences of the software？
 
 `Yes`. You can set the `hotkeys` or more and more.
 
-![](../../../../assets/usage-settings.png)
+![](https://s1.ax1x.com/2020/06/29/NWdo4g.png)

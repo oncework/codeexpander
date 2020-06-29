@@ -3,16 +3,16 @@
     <swiper :options="swiperOption" ref="mySwiper" class="img-shadow">
       <!-- slides -->
       <swiper-slide>
-        <img class="banner swiper-lazy" data-src="/assets/map-main-01.png" alt="" />
+        <img class="banner swiper-lazy" data-src="https://s1.ax1x.com/2020/06/29/NWd0HK.png" alt="" />
       </swiper-slide>
       <swiper-slide>
-        <img class="banner swiper-lazy" data-src="/assets/map-main-02.png" alt="" />
+        <img class="banner swiper-lazy" data-src="https://s1.ax1x.com/2020/06/29/NWdwB6.png" alt="" />
       </swiper-slide>
       <swiper-slide>
-        <img class="banner swiper-lazy" data-src="/assets/map-main-03.png" alt="" />
+        <img class="banner swiper-lazy" data-src="https://s1.ax1x.com/2020/06/29/NWdDAO.png" alt="" />
       </swiper-slide>
       <swiper-slide>
-        <img class="banner swiper-lazy" data-src="/assets/map-main-04.png" alt="" />
+        <img class="banner swiper-lazy" data-src="https://s1.ax1x.com/2020/06/29/NWdrND.png" alt="" />
       </swiper-slide>
       <!-- Optional controls -->
       <div

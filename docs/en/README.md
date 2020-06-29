@@ -34,7 +34,7 @@ Most features are free and buy now for \$4.99 if you want to support the author
 
 Please contact me if you have any questions
 
-![](../../assets/weixin-profile.jpg)
+![](https://s1.ax1x.com/2020/06/29/NWdXD0.jpg)
 
 ## Features
 
@@ -44,37 +44,37 @@ Avoid typing the same sentence repeatedly, refusing to paste and copy starts wit
 
 > How it works: Detect keywords you enter (pre-set instructions) and replace them as you type.
 
-![](../../assets/custom-snippet.gif)
+![](https://s1.ax1x.com/2020/06/15/N9utKA.gif)
 
 ### Custom scripts
 
 Quickly run the script to get the processed results, and you can achieve any function you want.[How to create>>](/en/views/advance/text-and-script.html)
 
-![](../../assets/gene-md.gif)
+![](https://s1.ax1x.com/2020/06/15/N9ugrn.gif)
 
 ### Create template
 
 Support custom date, simulate keyboard macro, generate rich text template.[How to create>>](/en/views/advance/fill-in.html)
 
-![](../../assets/fill-in.gif)
+![](https://s1.ax1x.com/2020/06/15/N9uDPS.gif)
 
 ### Create snippets
 
 Quickly save existing code snippets and sync to another computer.
 
-![](../../assets/gene-snippet.gif)
+![](https://s1.ax1x.com/2020/06/15/N9uh5T.gif)
 
 ### Generate code picture
 
 Easier to share your own style clips to others.
 
-![](../../assets/gene-pic.gif)
+![](https://s1.ax1x.com/2020/06/15/N9u2bq.gif)
 
 ### Search bar
 
 No memory required, fuzzy full text search results.[How to use>>](/en/views/introduce/quick-browse.html)
 
-![](../../assets/search-bar.gif)
+![](https://s1.ax1x.com/2020/06/29/NWdfDP.gif)
 
 All clips can be synchronized to the clip management of `Localization`,` Github`, `Code Cloud` platform, with unlimited public / private clips, grouping, cloud synchronization, online editing, and sharing with others.
 

@@ -7,14 +7,14 @@ date: 2020-01-11
 
 键盘将模拟键盘操作，每个模拟键将跟随下一个模拟键。
 
-![](../../../assets/keyboard.gif)
+![](https://s1.ax1x.com/2020/06/15/N9ubrR.gif)
 
 - `Enter、Esc、Tab`
 - `自定义复合键盘`
 
-![Operating options](../../../assets/keyboard-ui.png)
+![Operating options](https://s1.ax1x.com/2020/06/15/N9uqq1.png)
 
-![Operating custom](../../../assets/keyboard-ui-setting.png)
+![Operating custom](https://s1.ax1x.com/2020/06/15/N9uOVx.png)
 
 ## 自定义复合键盘
 

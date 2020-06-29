@@ -7,27 +7,27 @@ date: 2020-01-11
 
 Simplify your email. Take sample email responses or sales queries and customize the areas you need. You have multiple jobs, use your email signature, and link to current social media!
 
-![](../../../../assets/fill-in.gif)
+![](https://s1.ax1x.com/2020/06/15/N9uDPS.gif)
 
 - Sing-line Field
 
-![](../../../../assets/fill-in-sing-line.png)
+![](https://s1.ax1x.com/2020/06/15/N9uyvj.png)
 
 - Multi-line Field
 
-![](../../../../assets/fill-in-multi-line.png)
+![](https://s1.ax1x.com/2020/06/15/N9ur8g.png)
 
 - Optional Section
 
-![](../../../../assets/fill-in-option.png)
+![](https://s1.ax1x.com/2020/06/15/N9us2Q.png)
 
 - Popup Menu
 
-![](../../../../assets/fill-in-menu.png)
+![](https://s1.ax1x.com/2020/06/15/N9u058.png)
 
 ## Mixed Test Cases
 
-![](../../../../assets/fill-in-test.png)
+![](https://s1.ax1x.com/2020/06/15/N9ucKs.png)
 
 - In the snippet format drop-down menu, choose `Text` as the format type.
 - In the snippet field, you may enter:

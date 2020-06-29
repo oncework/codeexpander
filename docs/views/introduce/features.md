@@ -20,9 +20,9 @@ date: 2019-04-09
 
 ## 极简的操作界面
 
-![](../../../assets/features-editing.png)
+![](https://s1.ax1x.com/2020/06/15/N9u3CD.png)
 
-![](../../../assets/features-intro.png)
+![](https://s1.ax1x.com/2020/06/15/N9uNDI.png)
 
 ## 即时同步
 
@@ -33,7 +33,7 @@ date: 2019-04-09
 
 ## 即时编译
 
-![](../../../assets/features-language.png)
+![](https://s1.ax1x.com/2020/06/15/N9udVP.png)
 
 * ✅ 富文本
 * ✅ Text

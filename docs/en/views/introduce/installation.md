@@ -13,11 +13,11 @@ For mac:
 
 When you first start the software, the software will prompt as follows:
 
-![](../../../../assets/installation-tips.png)
+![](https://s1.ax1x.com/2020/06/15/N9uHM9.png)
 
 Open the system preferences and check `CodeExpander`
 
-![](../../../../assets/installation-lock.png)
+![](https://s1.ax1x.com/2020/06/15/N9uTxJ.png)
 
 Tips: please restart the software after setting, otherwise the normal software cannot be run.
 
