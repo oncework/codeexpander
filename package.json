@@ -1,0 +1,29 @@
+{
+  "author": "xudaolong",
+  "license": "CC-BY-NC-ND-4.0",
+  "homepage": "./",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "pre": "node scripts/pre.js",
+    "dev": "npm run pre && vuepress dev docs",
+    "build": "npm run pre && vuepress build docs",
+    "publish": "bash deploy.sh"
+  },
+  "dependencies": {
+    "@vuepress-reco/vuepress-plugin-rss": "1.0.0",
+    "@vuepress/plugin-google-analytics": "1.2.0",
+    "@vuepress/plugin-pwa": "1.2.0",
+    "@vuepress/plugin-register-components": "1.2.0",
+    "jquery": "^3.5.0",
+    "vue-awesome-swiper": "^3.1.3",
+    "vuepress": "^1.2.0",
+    "vuepress-plugin-flowchart": "1.4.3",
+    "vuepress-plugin-img-lazy": "^1.0.2",
+    "vuepress-plugin-sitemap": "2.3.0",
+    "vuepress-theme-reco": "1.2.1",
+    "whatwg-fetch": "3.0.0"
+  },
+  "devDependencies": {
+    "fs-extra": "^8.1.0"
+  }
+}
