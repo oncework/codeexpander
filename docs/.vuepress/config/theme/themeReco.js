@@ -1,6 +1,6 @@
 module.exports = {
   type: 'HomePageOne',
-  logo: '/icon.png',
+  logo: '/static/icon.png',
   // 搜索设置
   search: true,
   searchMaxSuggestions: 10,

@@ -40,6 +40,6 @@ npm-debug.log
 .env
 .package-lock.json
 
-**/public/**
+public/**
 
 .DS_Store

@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /icon.png
+heroImage: /static/icon.png
 heroImageStyle:
   {
     maxWidth: "200px",
