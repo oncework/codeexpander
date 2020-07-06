@@ -11,6 +11,10 @@
         &nbsp;&nbsp;
         <span v-if="$themeConfig.startYear">{{ $themeConfig.startYear }} - </span>
         {{ year }}
+        &nbsp;&nbsp;
+      </a>
+      <a href="https://www.beian.miit.gov.cn">
+        粤ICP备19077277号
       </a>
     </span>
     <p class="cyber-security" v-if="$themeConfig.cyberSecurityRecord">
