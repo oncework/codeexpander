@@ -22,7 +22,7 @@ MacOS 10.14/10.13/10.12/10.11 \(Mojave, High Sierra, Sierra...\) **Or** Windows 
 
 ## **Pricing**
 
-Most features are free and buy now for \$4.99 if you want to support the author
+Most features are free and you want to support the author by
 
 - [爱发卡](https://w.url.cn/s/AHRprNl)
 - [Paddle](https://pay.paddle.com/checkout/540339)
