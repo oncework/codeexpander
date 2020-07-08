@@ -3,17 +3,19 @@ title: Pricing
 date: 2020-01-11
 ---
 
-Most of the features in the current version of `CodeExpander` are free, and you only need to purchase an activation code to support author updates. New features are now being updated every two weeks.
+## Permanent version
 
-#### Try it now
+> The function is permanently upgraded, and as the function increases, the price will rise.
 
-Purchase channels
+- [Codeexpander Permanent-面包多](https://mianbaoduo.com/o/bread/ZZ6bl5w=)
+- [Codeexpander Permanent-Paddle](https://pay.paddle.com/checkout/540339)
 
-> One purchase, permanent use
+## Subscription version
 
-- [爱发卡](https://w.url.cn/s/AHRprNl)
-- [Paddle](https://pay.paddle.com/checkout/540339)
+- [Codeexpander Premium Edition Monthly Card](https://mianbaoduo.com/o/bread/ZpiWmZ0=)
 
-## Update Status
 
-Current update status: `Active`
+## What is the difference between the free version and the paid version?
+
+The free version is suitable only for the synchronization and update of codes or documents.
+The paid version supports more complete text templates, text shortcuts, text expansion tools and other functions. Subsequent functions will also be updated.

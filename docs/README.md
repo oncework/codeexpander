@@ -19,9 +19,15 @@ actionLink: /views/introduce/basic-usage
   <Swiper></Swiper>
 </ClientOnly>
 
+Codeexpander通过将缩写词替换为您定义的常用短语来加快在任何应用程序中的键入速度。
+
+节省您的宝贵时间，不要一遍又一遍地键入相同的内容。
+
+也称为文本模板，文本快捷方式，文本扩展工具。
+
 ## 下载
 
-不仅支持 `Mac OS` 也支持 `Windows OS`
+支持 `MacOS 10.9 - 10.15 Catalina. ` 与 `Windows 7/8/10`
 
 [点击下载](https://github.com/oncework/codeexpander/releases)
 

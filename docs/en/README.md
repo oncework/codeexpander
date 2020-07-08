@@ -19,6 +19,12 @@ actionLink: /en/views/introduce/basic-usage
   <Swiper></Swiper>
 </ClientOnly>
 
+Codeexpander accelerates your typing in any application by replacing abbreviations with frequently used phrases you define.
+
+Save your priceless time, stop typing the same thing over and over.
+
+Also known as text template, text shortcut, text expansion tool.
+
 ## **Download**
 
 Not only `Mac OS` but also` Windows OS`
