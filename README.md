@@ -24,8 +24,8 @@ MacOS 10.14/10.13/10.12/10.11 \(Mojave, High Sierra, Sierra...\) **Or** Windows 
 
 Most features are free and you want to support the author by
 
-- [爱发卡](https://w.url.cn/s/AHRprNl)
-- [Paddle](https://pay.paddle.com/checkout/540339)
+- [Codeexpander 永久版-面包多](https://mianbaoduo.com/o/bread/ZZ6bl5w=)
+- [Codeexpander 永久版-Paddle](https://pay.paddle.com/checkout/540339)
 
 Please contact me if you have any questions
 
