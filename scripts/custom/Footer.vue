@@ -13,8 +13,8 @@
         {{ year }}
         &nbsp;&nbsp;
       </a>
-      <a href="https://www.beian.miit.gov.cn">
-        粤ICP备19077277号
+      <a href="https://beian.miit.gov.cn" target="_blank">
+        粤ICP备19077277号-2
       </a>
     </span>
     <p class="cyber-security" v-if="$themeConfig.cyberSecurityRecord">
