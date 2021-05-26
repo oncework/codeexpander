@@ -67,7 +67,10 @@ module.exports = {
     '@vuepress-reco/extract-code',
     'flowchart',
     ['sitemap', {
-      hostname: 'https://codeexpander.com'
+      hostname: 'https://codeexpander.com',
+      dateFormatter: val => {
+        return new Date().toISOString()
+      }
     }],
     ['@vuepress-reco/rss', {
       site_url: 'https://codeexpander.com',
