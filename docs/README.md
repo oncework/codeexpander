@@ -33,7 +33,7 @@ Codeexpander通过将缩写词替换为您定义的常用短语来加快在任�
 
 国内下载平台
 
-[蓝奏云](https://www.lanzous.com/b00za5zqh)
+[蓝奏云](https://www.lanzoux.com/b00za5zqh)
 
 密码:6eek
 
