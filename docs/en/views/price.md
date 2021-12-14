@@ -8,7 +8,7 @@ date: 2020-01-11
 > The function is permanently upgraded, and as the function increases, the price will rise.
 
 - [Codeexpander Permanent-面包多](https://mianbaoduo.com/o/bread/ZZ6bl5w=)
-- [Codeexpander Permanent-Paddle](https://pay.paddle.com/checkout/540339)
+- [Codeexpander Permanent-Paddle](https://pay.codeexpander.com/)
 
 ## Subscription version
 

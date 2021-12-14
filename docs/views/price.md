@@ -8,7 +8,7 @@ date: 2020-01-11
 > 功能永久升级，随着功能增加，价格也会上升.
 
 - [Codeexpander 永久版-面包多](https://mianbaoduo.com/o/bread/ZZ6bl5w=)
-- [Codeexpander 永久版-Paddle](https://pay.paddle.com/checkout/540339)
+- [Codeexpander 永久版-Paddle](https://pay.codeexpander.com/)
 
 ## 订阅版本
 

@@ -36,7 +36,7 @@ Not only `Mac OS` but also` Windows OS`
 Most features are free and buy now for \$4.99 if you want to support the author
 
 - [爱发卡](https://w.url.cn/s/AHRprNl)
-- [Paddle](https://pay.paddle.com/checkout/540339)
+- [Paddle](https://pay.codeexpander.com/)
 
 Please contact me if you have any questions
 
