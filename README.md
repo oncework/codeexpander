@@ -1,5 +1,7 @@
 # CodeExpander
 
+> 🔥🔥🔥 Codeexpander is being refactored to version v4, so stay tuned! ! !, If you have any experience issues, write it on the issue. (Codeexpander v4 正在重构中，有体验问题先写到issue， 到时候一并处理。)
+
 `CodeExpander` is a cross-platform cloud synchronization development tool for developers that includes input enhancement(`Text expander`), `code snippet management`. It saves and manages text or script snippets that require repeated input and can be expanded automatically by setting abbreviations.
 
 All snippets can be synchronized to the clip management of `Localization`,` Github`, `码云` platform, with unlimited public / private clips, grouping, cloud synchronization, online editing, and sharing with others.
@@ -25,7 +27,7 @@ MacOS 10.14/10.13/10.12/10.11 \(Mojave, High Sierra, Sierra...\) **Or** Windows 
 Most features are free and you want to support the author by
 
 - [Codeexpander 永久版-面包多](https://mianbaoduo.com/o/bread/ZZ6bl5w=)
-- [Codeexpander 永久版-Paddle](https://pay.codeexpander.com/)
+- [Codeexpander Permanent-Paddle](https://pay.codeexpander.com/)
 
 Please contact me if you have any questions
 
