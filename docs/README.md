@@ -25,17 +25,13 @@ Codeexpander通过将缩写词替换为您定义的常用短语来加快在任�
 
 也称为文本模板，文本快捷方式，文本扩展工具。
 
-## 下载
+## 快速使用
 
 支持 `MacOS 10.9 - 10.15 Catalina. ` 与 `Windows 7/8/10`
 
-[点击下载](https://github.com/oncework/codeexpander/releases)
+[Github](https://github.com/oncework/codeexpander/releases)
 
-国内下载平台
-
-[蓝奏云](https://www.lanzoux.com/b00za5zqh)
-
-密码:6eek
+[蓝奏云](https://www.lanzoux.com/b00za5zqh)(密码:6eek)
 
 ## 特征
 

@@ -9,7 +9,7 @@ date: 2020-01-11
 
 > 对于网络不稳定的用户，即常年不能访问github, 可使用国内的[码云](https://gitee.com/)平台进行片段的管理
 
-- [下载](https://github.com/oncework/codeexpander/releases) 该应用. 
+- [使用](https://github.com/oncework/codeexpander/releases) 该应用. 
 
 > 此时，您可以选择[软件激活码](/views/price.html)来体验更多功能以及支持作者开发其他功能， 当然你也可以继续使用免费模式（绝大多数的功能都是免费的）.
 
