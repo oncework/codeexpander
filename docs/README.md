@@ -27,9 +27,11 @@ Codeexpander通过将缩写词替换为您定义的常用短语来加快在任�
 
 ## 支持系统
 
-支持 `MacOS 10.9 - 10.15 Catalina. ` 与 `Windows 7/8/10`
+支持 `MacOS 10.9 ~ 以上. ` 与 `Windows 7 ~ 以上`
 
-[了解更多](https://github.com/oncework/codeexpander/releases)
+[百度云](https://pan.baidu.com/s/1c5BVB-46A_3mVs-IXqaEnw) 提取码: 9vld
+
+[Github](https://github.com/oncework/codeexpander/releases)
 
 ## 特征
 
