@@ -13,4 +13,4 @@ As the name implies, `plain text` snippet insert unformatted text. In most cases
   - [Calendar](/en/views/advance/calendar.html)
   - [Fill-In](/en/views/advance/fill-in.html)
 
-![](https://s1.ax1x.com/2020/06/29/NWd69H.png)
+![](https://gitee.com/xudaolong/codeexpander-oss/raw/master/i/rich-text-ui.png)

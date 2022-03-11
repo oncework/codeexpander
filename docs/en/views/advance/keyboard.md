@@ -7,14 +7,14 @@ date: 2020-01-11
 
 The keyboard will simulate a keyboard operation, and each simulated key will be followed by the next simulated key.
 
-![](https://s1.ax1x.com/2020/06/15/N9ubrR.gif)
+![](https://gitee.com/xudaolong/codeexpander-oss/raw/master/i/keyboard.gif)
 
 - `Enter、Esc、Tab`
 - `Composite Keyboard`
 
-![Operating options](https://s1.ax1x.com/2020/06/15/N9uqq1.png)
+![Operating options](https://gitee.com/xudaolong/codeexpander-oss/raw/master/i/keyboard-ui.png)
 
-![Operating custom](https://s1.ax1x.com/2020/06/15/N9uOVx.png)
+![Operating custom](https://gitee.com/xudaolong/codeexpander-oss/raw/master/i/keyboard-ui-setting.png)
 
 ## Composite Keyboard
 

@@ -7,39 +7,39 @@ date: 2020-01-11
 
 Codeexpander 支持本地、Github、码云管理片段。
 
-![登录入口](https://s1.ax1x.com/2020/06/29/NWdH3j.png)
+![登录入口](https://gitee.com/xudaolong/codeexpander-oss/raw/master/i/usage-login-zh.png)
 
-![登录Github](https://s1.ax1x.com/2020/06/29/NWdhHf.png)
+![登录Github](https://gitee.com/xudaolong/codeexpander-oss/raw/master/i/usage-login-github.png)
 
-![登录码云](https://s1.ax1x.com/2020/06/29/NWd7CQ.png)
+![登录码云](https://gitee.com/xudaolong/codeexpander-oss/raw/master/i/usage-login-gitee.png)
 
 ## 主面板
 
-![](https://s1.ax1x.com/2020/06/15/N9uNDI.png)
+![](https://gitee.com/xudaolong/codeexpander-oss/raw/master/i/features-intro.png)
 
 ## 片段编辑器
 
-![](https://s1.ax1x.com/2020/06/15/N9u3CD.png)
+![](https://gitee.com/xudaolong/codeexpander-oss/raw/master/i/features-editing.png)
 
 ## 富文本编辑器
 
-![](https://s1.ax1x.com/2020/06/15/N9uUbt.png)
+![](https://gitee.com/xudaolong/codeexpander-oss/raw/master/i/features-editing-rich.png)
 
 ## 搜索工具栏
 
 快捷键为 \[ **Alt + Space \]**
 
-![](https://s1.ax1x.com/2020/06/15/N9uzGD.png)
+![](https://gitee.com/xudaolong/codeexpander-oss/raw/master/i/layout-search-bar.png)
 
 ## 迅速创建片段
 
 快捷键为 &lt; **Alt** + \] &gt;
 
-![](https://s1.ax1x.com/2020/06/15/N9uxPO.png)
+![](https://gitee.com/xudaolong/codeexpander-oss/raw/master/i/layout-create-snippet.png)
 
 ## 首选项
 
 支持自定义各种配置.
 
-![](https://s1.ax1x.com/2020/06/15/N9ujIK.png)
+![](https://gitee.com/xudaolong/codeexpander-oss/raw/master/i/layout-preferences.png)
 

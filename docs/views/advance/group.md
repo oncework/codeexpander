@@ -7,7 +7,7 @@ date: 2020-01-11
 
 `分组`是一种管理大量片段的方法，其中一个片段具有多个片段，另一个文件可以容纳多个片段，这些片段共同涉及相同的片段描述。
 
-![](https://s1.ax1x.com/2020/06/15/N9uIGF.png)
+![](https://gitee.com/xudaolong/codeexpander-oss/raw/master/i/group-ui-zh.png)
 
 ## 激活配置
 
@@ -23,14 +23,14 @@ date: 2020-01-11
 
 设置可控制指令的使用在哪些应用程序用，绝大部分的软件都可用且适用这配置。
 
-![](https://s1.ax1x.com/2020/06/15/N9uo24.png)
+![](https://gitee.com/xudaolong/codeexpander-oss/raw/master/i/group-ui-zone-zh.png)
 
 - 全部应用
 - 全部应用，除了下列右侧应用...
 - 仅下列右侧应用...
 - 禁止任何应用使用
 
-![](https://s1.ax1x.com/2020/06/15/N9u5PU.png)
+![](https://gitee.com/xudaolong/codeexpander-oss/raw/master/i/group-ui-app-zh.png)
 
 ## 指令前缀
 

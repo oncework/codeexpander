@@ -7,27 +7,27 @@ date: 2020-01-11
 
 Simplify your email. Take sample email responses or sales queries and customize the areas you need. You have multiple jobs, use your email signature, and link to current social media!
 
-![](https://s1.ax1x.com/2020/06/15/N9uDPS.gif)
+![](https://gitee.com/xudaolong/codeexpander-oss/raw/master/i/fill-in.gif)
 
 - Sing-line Field
 
-![](https://s1.ax1x.com/2020/06/15/N9uyvj.png)
+![](https://gitee.com/xudaolong/codeexpander-oss/raw/master/i/fill-in-sing-line.png)
 
 - Multi-line Field
 
-![](https://s1.ax1x.com/2020/06/15/N9ur8g.png)
+![](https://gitee.com/xudaolong/codeexpander-oss/raw/master/i/fill-in-multi-line.png)
 
 - Optional Section
 
-![](https://s1.ax1x.com/2020/06/15/N9us2Q.png)
+![](https://gitee.com/xudaolong/codeexpander-oss/raw/master/i/fill-in-option.png)
 
 - Popup Menu
 
-![](https://s1.ax1x.com/2020/06/15/N9u058.png)
+![](https://gitee.com/xudaolong/codeexpander-oss/raw/master/i/fill-in-menu.png)
 
 ## Mixed Test Cases
 
-![](https://s1.ax1x.com/2020/06/15/N9ucKs.png)
+![](https://gitee.com/xudaolong/codeexpander-oss/raw/master/i/fill-in-test.png)
 
 - In the snippet format drop-down menu, choose `Text` as the format type.
 - In the snippet field, you may enter:
