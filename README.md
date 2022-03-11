@@ -2,7 +2,7 @@
 
 `CodeExpander` is a cross-platform cloud synchronization development tool for developers that includes input enhancement(`Text expander`), `code snippet management`. It saves and manages text or script snippets that require repeated input and can be expanded automatically by setting abbreviations.
 
-All snippets can be synchronized to the clip management of `Localization`,` Github`, `码云` platform, with unlimited public / private clips, grouping, cloud synchronization, online editing, and sharing with others.
+All snippets can be synchronized to the snippets management of `Localization`,` Github`, `码云` platform, with unlimited public / private snippets, grouping, cloud synchronization, online editing, and sharing with others.
 
 ![](./uploaded/map-main-01.png)
 
@@ -22,10 +22,10 @@ MacOS 10.14/10.13/10.12/10.11 \(Mojave, High Sierra, Sierra...\) **Or** Windows 
 
 ## **Pricing**
 
-Most features are free and buy now for \$4.99 if you want to support the author
+Most features are free and you want to support the author by
 
-- [爱发卡](https://w.url.cn/s/AHRprNl)
-- [Paddle](https://pay.codeexpander.com/)
+- [Codeexpander 永久版-面包多](https://mianbaoduo.com/o/bread/ZZ6bl5w=)
+- [Codeexpander Permanent-Paddle](https://pay.codeexpander.com/)
 
 Please contact me if you have any questions
 
@@ -53,11 +53,11 @@ Support custom date, simulate keyboard macro, generate rich text template.[How t
 
 ![](./uploaded/fill-in.gif)
 
-### Create snippets
+<!-- ### Create snippets -->
 
-Quickly save existing code snippets and sync to another computer.
+<!-- Quickly save existing code snippets and sync to another computer. -->
 
-![](./uploaded/gene-snippet.gif)
+<!-- ![](./uploaded/gene-snippet.gif) -->
 
 ### Generate code picture
 
