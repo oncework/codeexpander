@@ -23,11 +23,11 @@ $ python -v
 
 首次启动软件时，软件将提示如下:
 
-![](https://gitee.com/xudaolong/codeexpander-oss/raw/master/i/installation-tips.png)
+![](http://oss.codeexpander.com/i/installation-tips.png)
 
 打开系统首选项并选中 `CodeExpander`
 
-![](https://gitee.com/xudaolong/codeexpander-oss/raw/master/i/installation-lock.png)
+![](http://oss.codeexpander.com/i/installation-lock.png)
 
 提示：请在设置后重启软件，否则无法正常运行软件。
 

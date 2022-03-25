@@ -13,11 +13,11 @@ For mac:
 
 When you first start the software, the software will prompt as follows:
 
-![](https://gitee.com/xudaolong/codeexpander-oss/raw/master/i/installation-tips.png)
+![](http://oss.codeexpander.com/i/installation-tips.png)
 
 Open the system preferences and check `CodeExpander`
 
-![](https://gitee.com/xudaolong/codeexpander-oss/raw/master/i/installation-lock.png)
+![](http://oss.codeexpander.com/i/installation-lock.png)
 
 Tips: please restart the software after setting, otherwise the normal software cannot be run.
 

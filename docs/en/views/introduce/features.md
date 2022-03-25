@@ -21,9 +21,9 @@ Use `CodeExpander’s` powerful snippets and abbreviations to streamline and spe
 
 ## Nice interface
 
-![](https://gitee.com/xudaolong/codeexpander-oss/raw/master/i/features-intro.png)
+![](http://oss.codeexpander.com/i/features-intro.png)
 
-![](https://gitee.com/xudaolong/codeexpander-oss/raw/master/i/features-editing.png)
+![](http://oss.codeexpander.com/i/features-editing.png)
 
 ## Non-sensory synchronization of Gist functions
 
@@ -32,7 +32,7 @@ Use `CodeExpander’s` powerful snippets and abbreviations to streamline and spe
 
 ## Compile the preview function
 
-![](https://gitee.com/xudaolong/codeexpander-oss/raw/master/i/features-language.png)
+![](http://oss.codeexpander.com/i/features-language.png)
 
 - ✅ Rich Text
 - ✅ Text

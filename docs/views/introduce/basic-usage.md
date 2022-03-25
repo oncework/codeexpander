@@ -23,13 +23,13 @@ date: 2020-01-11
 
 ### 登录`Github`或者`码云`帐户
 
-![登录入口](https://gitee.com/xudaolong/codeexpander-oss/raw/master/i/usage-login-zh.png)
+![登录入口](http://oss.codeexpander.com/i/usage-login-zh.png)
 
-![登录Github](https://gitee.com/xudaolong/codeexpander-oss/raw/master/i/usage-login-github.png)
+![登录Github](http://oss.codeexpander.com/i/usage-login-github.png)
 
 > 对于Github平台，部分用户由于网络导致更新同步功能不佳，可使用码云平台
 
-![登录码云](https://gitee.com/xudaolong/codeexpander-oss/raw/master/i/usage-login-gitee.png)
+![登录码云](http://oss.codeexpander.com/i/usage-login-gitee.png)
 
 > 码云绑定微信即可快捷登录，体验加倍
 
@@ -37,15 +37,15 @@ date: 2020-01-11
 
 您可以使用 [快捷键](/views/reference/shortcut) `⌘ + T` 或触摸加号按钮，如下所示
 
-![](https://gitee.com/xudaolong/codeexpander-oss/raw/master/i/usage-group-zh.png)
+![](http://oss.codeexpander.com/i/usage-group-zh.png)
 
 ### 创建一个新代码段
 
 您可以使用 [快捷键](/views/reference/shortcut) `Alt + ]` 打开Create-Snippet窗口或触摸加号按钮，如下所示。
 
-![](https://gitee.com/xudaolong/codeexpander-oss/raw/master/i/usage-snippet-zh.png)
+![](http://oss.codeexpander.com/i/usage-snippet-zh.png)
 
-![](https://gitee.com/xudaolong/codeexpander-oss/raw/master/i/usage-snippet-create-zh.png)
+![](http://oss.codeexpander.com/i/usage-snippet-create-zh.png)
 
 ### 选择片段类型
 
@@ -59,11 +59,11 @@ date: 2020-01-11
 
 `可以`. 只需点击 **链接** 按钮， 跳转到 `gist website`.
 
-![](https://gitee.com/xudaolong/codeexpander-oss/raw/master/i/usage-edit-online.png)
+![](http://oss.codeexpander.com/i/usage-edit-online.png)
 
 #### 我可以配置软件的其他自定义属性吗？
 
 `可以`.
 
-![](https://gitee.com/xudaolong/codeexpander-oss/raw/master/i/usage-settings-zh.png)
+![](http://oss.codeexpander.com/i/usage-settings-zh.png)
 

@@ -3,16 +3,16 @@
     <swiper :options="swiperOption" ref="mySwiper" class="img-shadow">
       <!-- slides -->
       <swiper-slide>
-        <img class="banner swiper-lazy" data-src="https://gitee.com/xudaolong/codeexpander-oss/raw/master/i/map-main-01.png" alt="" />
+        <img class="banner swiper-lazy" data-src="http://oss.codeexpander.com/i/map-main-01.png" alt="" />
       </swiper-slide>
       <swiper-slide>
-        <img class="banner swiper-lazy" data-src="https://gitee.com/xudaolong/codeexpander-oss/raw/master/i/map-main-02.png" alt="" />
+        <img class="banner swiper-lazy" data-src="http://oss.codeexpander.com/i/map-main-02.png" alt="" />
       </swiper-slide>
       <swiper-slide>
-        <img class="banner swiper-lazy" data-src="https://gitee.com/xudaolong/codeexpander-oss/raw/master/i/map-main-03.png" alt="" />
+        <img class="banner swiper-lazy" data-src="http://oss.codeexpander.com/i/map-main-03.png" alt="" />
       </swiper-slide>
       <swiper-slide>
-        <img class="banner swiper-lazy" data-src="https://gitee.com/xudaolong/codeexpander-oss/raw/master/i/map-main-04.png" alt="" />
+        <img class="banner swiper-lazy" data-src="http://oss.codeexpander.com/i/map-main-04.png" alt="" />
       </swiper-slide>
       <!-- Optional controls -->
       <div

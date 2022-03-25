@@ -40,7 +40,7 @@ Most features are free and buy now for \$4.99 if you want to support the author
 
 Please contact me if you have any questions
 
-![](https://gitee.com/xudaolong/codeexpander-oss/raw/master/i/weixin-profile.jpg)
+![](http://oss.codeexpander.com/i/weixin-profile.jpg)
 
 ## Features
 
@@ -50,37 +50,37 @@ Avoid typing the same sentence repeatedly, refusing to paste and copy starts wit
 
 > How it works: Detect keywords you enter (pre-set instructions) and replace them as you type.
 
-![](https://gitee.com/xudaolong/codeexpander-oss/raw/master/i/custom-snippet.gif)
+![](http://oss.codeexpander.com/i/custom-snippet.gif)
 
 ### Custom scripts
 
 Quickly run the script to get the processed results, and you can achieve any function you want.[How to create>>](/en/views/advance/text-and-script.html)
 
-![](https://gitee.com/xudaolong/codeexpander-oss/raw/master/i/gene-md.gif)
+![](http://oss.codeexpander.com/i/gene-md.gif)
 
 ### Create template
 
 Support custom date, simulate keyboard macro, generate rich text template.[How to create>>](/en/views/advance/fill-in.html)
 
-![](https://gitee.com/xudaolong/codeexpander-oss/raw/master/i/fill-in.gif)
+![](http://oss.codeexpander.com/i/fill-in.gif)
 
 ### Create snippets
 
 Quickly save existing code snippets and sync to another computer.
 
-![](https://gitee.com/xudaolong/codeexpander-oss/raw/master/i/gene-snippet.gif)
+![](http://oss.codeexpander.com/i/gene-snippet.gif)
 
 ### Generate code picture
 
 Easier to share your own style clips to others.
 
-![](https://gitee.com/xudaolong/codeexpander-oss/raw/master/i/gene-pic.gif)
+![](http://oss.codeexpander.com/i/gene-pic.gif)
 
 ### Search bar
 
 No memory required, fuzzy full text search results.[How to use>>](/en/views/introduce/quick-browse.html)
 
-![](https://gitee.com/xudaolong/codeexpander-oss/raw/master/i/search-bar.gif)
+![](http://oss.codeexpander.com/i/search-bar.gif)
 
 All clips can be synchronized to the clip management of `Localization`,` Github`, `Code Cloud` platform, with unlimited public / private clips, grouping, cloud synchronization, online editing, and sharing with others.
 

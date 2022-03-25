@@ -7,15 +7,15 @@ date: 2020-01-11
 
 Codeexpander supports `Local`, `Github`, and `Gitee` management snippets.
 
-![](https://gitee.com/xudaolong/codeexpander-oss/raw/master/i/usage-login-zh.png)
+![](http://oss.codeexpander.com/i/usage-login-zh.png)
 
-![](https://gitee.com/xudaolong/codeexpander-oss/raw/master/i/usage-login-github.png)
+![](http://oss.codeexpander.com/i/usage-login-github.png)
 
-![](https://gitee.com/xudaolong/codeexpander-oss/raw/master/i/usage-login-gitee.png)
+![](http://oss.codeexpander.com/i/usage-login-gitee.png)
 
 ## Main
 
-![](https://gitee.com/xudaolong/codeexpander-oss/raw/master/i/features-intro.png)
+![](http://oss.codeexpander.com/i/features-intro.png)
 
 ## Snippet
 
@@ -35,22 +35,22 @@ Codeexpander supports `Local`, `Github`, and `Gitee` management snippets.
 - Snippet editor
 - Snippet setting
 
-![](https://gitee.com/xudaolong/codeexpander-oss/raw/master/i/features-editing.png)
+![](http://oss.codeexpander.com/i/features-editing.png)
 
 ## Search Bar
 
 The default shortCut is \[ **Alt + Space \]**
 
-![](https://gitee.com/xudaolong/codeexpander-oss/raw/master/i/layout-search-bar.png)
+![](http://oss.codeexpander.com/i/layout-search-bar.png)
 
 ## Create Snippet
 
 The default shortcut is &lt; **Alt** + \] &gt;
 
-![](https://gitee.com/xudaolong/codeexpander-oss/raw/master/i/layout-create-snippet.png)
+![](http://oss.codeexpander.com/i/layout-create-snippet.png)
 
 ## Preferences
 
 This view support to config the basic features and hotkeys.
 
-![](https://gitee.com/xudaolong/codeexpander-oss/raw/master/i/layout-preferences.png)
+![](http://oss.codeexpander.com/i/layout-preferences.png)

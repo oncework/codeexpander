@@ -5,12 +5,12 @@ date: 2020-01-11
 
 快速插入日期。如将未来的截止日期添加到您的邮件中，又或者将当前日期添加到您的文件名。
 
-![](https://gitee.com/xudaolong/codeexpander-oss/raw/master/i/date.gif)
+![](http://oss.codeexpander.com/i/date.gif)
 
 - `Short、Medium、Long、Full`
 - `自定义日期格式`
 
-![](https://gitee.com/xudaolong/codeexpander-oss/raw/master/i/date-ui.png)
+![](http://oss.codeexpander.com/i/date-ui.png)
 
 ## 基本 **本地化格式**
 
@@ -31,7 +31,7 @@ date: 2020-01-11
 
 您可以选择或自定义日期格式以支持国际标准。
 
-![](https://gitee.com/xudaolong/codeexpander-oss/raw/master/i/date-i18n.png)
+![](http://oss.codeexpander.com/i/date-i18n.png)
 
 <Gist id="f1eb82cf68a9dc54acc5a0e49b76cea9"></Gist>
 

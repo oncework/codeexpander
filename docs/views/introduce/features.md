@@ -20,9 +20,9 @@ date: 2019-04-09
 
 ## 极简的操作界面
 
-![](https://gitee.com/xudaolong/codeexpander-oss/raw/master/i/features-editing.png)
+![](http://oss.codeexpander.com/i/features-editing.png)
 
-![](https://gitee.com/xudaolong/codeexpander-oss/raw/master/i/features-intro.png)
+![](http://oss.codeexpander.com/i/features-intro.png)
 
 ## 即时同步
 
@@ -33,7 +33,7 @@ date: 2019-04-09
 
 ## 即时编译
 
-![](https://gitee.com/xudaolong/codeexpander-oss/raw/master/i/features-language.png)
+![](http://oss.codeexpander.com/i/features-language.png)
 
 * ✅ 富文本
 * ✅ Text

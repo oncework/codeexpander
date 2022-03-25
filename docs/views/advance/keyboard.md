@@ -7,14 +7,14 @@ date: 2020-01-11
 
 键盘将模拟键盘操作，每个模拟键将跟随下一个模拟键。
 
-![](https://gitee.com/xudaolong/codeexpander-oss/raw/master/i/keyboard.gif)
+![](http://oss.codeexpander.com/i/keyboard.gif)
 
 - `Enter、Esc、Tab`
 - `自定义复合键盘`
 
-![Operating options](https://gitee.com/xudaolong/codeexpander-oss/raw/master/i/keyboard-ui.png)
+![Operating options](http://oss.codeexpander.com/i/keyboard-ui.png)
 
-![Operating custom](https://gitee.com/xudaolong/codeexpander-oss/raw/master/i/keyboard-ui-setting.png)
+![Operating custom](http://oss.codeexpander.com/i/keyboard-ui-setting.png)
 
 ## 自定义复合键盘
 
