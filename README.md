@@ -24,7 +24,7 @@ MacOS 10.14/10.13/10.12/10.11 \(Mojave, High Sierra, Sierra...\) **Or** Windows 
 
 Most features are free and you want to support the author by
 
-- [Codeexpander 永久版-面包多](https://mianbaoduo.com/o/bread/ZZ6bl5w=)
+- [Codeexpander 永久版-面包多](https://mbd.pub/o/bread/ZZ6bl5w=)
 - [Codeexpander Permanent-Paddle](https://pay.codeexpander.com/)
 
 Please contact me if you have any questions

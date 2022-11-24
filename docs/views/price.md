@@ -7,14 +7,14 @@ date: 2020-01-11
 
 > 功能永久升级，随着功能增加，价格也会上升.
 
-- [Codeexpander 永久版-面包多](https://mianbaoduo.com/o/bread/ZZ6bl5w=)
+- [Codeexpander 永久版-面包多](https://mbd.pub/o/bread/ZZ6bl5w=)
 - [Codeexpander 永久版-Paddle](https://pay.codeexpander.com/)
 
 ## 订阅版本
 
 > 购买后复制订单号即可
 
-- [Codeexpander 高级版月卡](https://mianbaoduo.com/o/bread/ZpiWmZ0=)
+- [Codeexpander 高级版月卡](https://mbd.pub/o/bread/ZpiWmZ0=)
 
 ## 免费版与付费版有何区别？
 
