@@ -1,7 +1,7 @@
 module.exports = {
   'zh': [
     {
-      text: '基础',
+      text: '介绍',
       icon: 'reco-api',
       items: [
         { text: '特征', link: '/views/introduce/features' },
@@ -29,7 +29,8 @@ module.exports = {
       items: [
         { text: 'FAQ', link: '/views/reference/faq' },
         { text: '快捷键', link: '/views/reference/shortcut' },
-        { text: '隐私政策', link: '/views/reference/privacy-policy' }
+        { text: '隐私政策', link: '/views/reference/privacy-policy' },
+        { text: '合作伙伴', link: '/views/digitalychee' },
       ]
     },
     // { text: '博客', link: '/categories/blog/', icon: 'reco-blog' },

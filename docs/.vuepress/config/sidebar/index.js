@@ -2,7 +2,7 @@ module.exports = {
   'zh': Object.assign({}, {
     '/views/introduce/': [
       {
-        title: '基础',
+        title: '介绍',
         collapsable: false,
         children: [
           'features',
