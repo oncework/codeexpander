@@ -3,13 +3,13 @@
     <div v-if="visible" class="notification-wrapper">
       <h4 class="notification-title">
         <i class="iconfont reco-tongzhi"></i>
-        <span>加微信进交流群 🎉🎉🎉</span>
+        <span>加QQ交流群 🎉🎉🎉</span>
         <i class="btn-close" @click="closeNote">
           <svg t="1573745677073" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="4448" width="22" height="22"><path d="M512 34.133333a486.4 486.4 0 1 0 486.4 486.4A486.4 486.4 0 0 0 512 34.133333z m209.4848 632.8064l-55.6032 55.466667-151.517867-151.125333-151.517866 151.1168-55.6032-55.466667 151.517866-151.108267L307.242667 364.714667l55.6032-55.466667 151.517866 151.125333 151.517867-151.1168 55.6032 55.466667-151.517867 151.099733z m0 0" p-id="4449"></path></svg>
         </i>
       </h4>
       <div class="notification-content">
-        <img :src="require('./weixin-profile.jpg')" alt="">
+        <img :src="require('./qq-profile.png')" alt="">
       </div>
     </div>
   </transition>
