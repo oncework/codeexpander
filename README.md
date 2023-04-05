@@ -20,6 +20,9 @@ MacOS 10.14/10.13/10.12/10.11 \(Mojave, High Sierra, Sierra...\) **Or** Windows 
 
 [Click to Download](https://github.com/oncework/codeexpander/releases)
 
+[百度云下载](https://pan.baidu.com/s/1c5BVB-46A_3mVs-IXqaEnw)
+> 提取码 9vld
+
 ## **Pricing**
 
 Most features are free and you want to support the author by
